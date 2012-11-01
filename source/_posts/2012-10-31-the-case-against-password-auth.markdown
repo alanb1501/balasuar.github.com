@@ -6,6 +6,10 @@ comments: true
 categories: [security, opinion]
 ---
 
+### tl;dr
+
+Password auth is hard and you're going to screw it up. Don't put your users at risk, and instead let someone who has better resources at their disposal handle password security.
+
 ## Introduction
 
 Passwords are ubiquitous. We have passwords for everything: email, phones, cars, mobile apps, ATMs, bank-accounts, ecommerce sites, alarm systems, picking up our kids, even for sex (say "pickles" if this hurts too much). 

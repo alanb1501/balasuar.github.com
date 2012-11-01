@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://balasuar.github.com
+url: http://aballs.com
 title: balls' blog
 subtitle: The digital thoughts of a guy who tells inside jokes to himself
 author: Alan
@@ -93,7 +93,7 @@ disqus_short_name: aballs
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-36011677-1
 
 # Facebook Like
 facebook_like: true
