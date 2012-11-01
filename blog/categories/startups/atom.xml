@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: startups | balls' blog]]></title>
-  <link href="http://balasuar.github.com/blog/categories/startups/atom.xml" rel="self"/>
-  <link href="http://balasuar.github.com/"/>
-  <updated>2012-11-01T00:18:51-07:00</updated>
-  <id>http://balasuar.github.com/</id>
+  <link href="http://aballs.com/blog/categories/startups/atom.xml" rel="self"/>
+  <link href="http://aballs.com/"/>
+  <updated>2012-11-01T00:26:28-07:00</updated>
+  <id>http://aballs.com/</id>
   <author>
     <name><![CDATA[Alan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome to the Jungle]]></title>
-    <link href="http://balasuar.github.com/blog/2012/10/29/welcome-to-the-jungle/"/>
+    <link href="http://aballs.com/blog/2012/10/29/welcome-to-the-jungle/"/>
     <updated>2012-10-29T02:03:00-07:00</updated>
-    <id>http://balasuar.github.com/blog/2012/10/29/welcome-to-the-jungle</id>
+    <id>http://aballs.com/blog/2012/10/29/welcome-to-the-jungle</id>
     <content type="html"><![CDATA[<h3>Back again for the 1nd time.</h3>
 
 <p>I'm trying yet another attempt at blogging. Maybe I'll be succesful this time. Either way it's an excuse to play with some new technologies out. For this, I'm using Octopress. The folks behind Octopress claim it's a 'blog for hackers' but by hackers they really mean 'blog for people who like to write code and or use scripts to get things done.' I definitely fall into the latter camp (though I've been known to reverse engineer the authentication schemes of mobile apps from time to time).</p>

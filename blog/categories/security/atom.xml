@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: security | balls' blog]]></title>
-  <link href="http://balasuar.github.com/blog/categories/security/atom.xml" rel="self"/>
-  <link href="http://balasuar.github.com/"/>
-  <updated>2012-11-01T00:18:51-07:00</updated>
-  <id>http://balasuar.github.com/</id>
+  <link href="http://aballs.com/blog/categories/security/atom.xml" rel="self"/>
+  <link href="http://aballs.com/"/>
+  <updated>2012-11-01T00:26:28-07:00</updated>
+  <id>http://aballs.com/</id>
   <author>
     <name><![CDATA[Alan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Case Against Password Auth]]></title>
-    <link href="http://balasuar.github.com/blog/2012/10/31/the-case-against-password-auth/"/>
+    <link href="http://aballs.com/blog/2012/10/31/the-case-against-password-auth/"/>
     <updated>2012-10-31T00:06:00-07:00</updated>
-    <id>http://balasuar.github.com/blog/2012/10/31/the-case-against-password-auth</id>
+    <id>http://aballs.com/blog/2012/10/31/the-case-against-password-auth</id>
     <content type="html"><![CDATA[<h3>tl;dr</h3>
 
 <p>Password auth is hard and you're going to screw it up. Don't put your users at risk, and instead let someone who has better resources at their disposal handle password security.</p>
