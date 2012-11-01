@@ -80,4 +80,10 @@ If you're not careful, your challenge system will become a proxy for your passwo
 
 When I first started at my last company, I required access to our customer demo system to make some changes. While I was waiting for someone to approve my account, I snooped around the User table database looking for creds, so I could start working (Winners want the ball in their hands). Of course the passwords were hashed, as were the answers for the challenge question. However the question themselves were not, and taking a look through them, I was suprised at the number of questions that read "The name of the company you work for." One look at one persons registered email, and I was in, and able to make changes to the customer demo portal.
 
+### An Almost Perfect Solution
+
+If you're inclined to believe any of what I've written, password auth systems aren't worth their time. A user's password has now more valuable that the stuff we're likely protecting it with. We could generate a password that is guarenteed to be unique, but they'll forget and rely on the "Forgotten Password" mechanism to login.
+
+The forgotten password scenario is essentially a 2nd way to authenticate. I don't know my password, so just email me a link, and I'll generate a new password. 
+
 
