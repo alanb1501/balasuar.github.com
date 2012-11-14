@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[balls' blog]]></title>
+  <link href="http://aballs.com/atom.xml" rel="self"/>
+  <link href="http://aballs.com/"/>
+  <updated>2012-11-01T01:05:50-07:00</updated>
+  <id>http://aballs.com/</id>
+  <author>
+    <name><![CDATA[Alan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Case Against Password Auth]]></title>
+    <link href="http://aballs.com/blog/2012/10/31/the-case-against-password-auth/"/>
+    <updated>2012-10-31T00:06:00-07:00</updated>
+    <id>http://aballs.com/blog/2012/10/31/the-case-against-password-auth</id>
+    <content type="html"><![CDATA[<h3>tl;dr</h3>
+
+<p>Password auth is hard and you&#8217;re going to screw it up. Don&#8217;t put your users at risk, and instead let someone who has better resources at their disposal handle password security.</p>
+
+<h2>Introduction</h2>
+
+<p>Passwords are ubiquitous. We have passwords for everything: email, phones, cars, mobile apps, ATMs, bank-accounts, ecommerce sites, alarm systems, picking up our kids, even for sex (say &#8220;pickles&#8221; if this hurts too much).</p>
+
+<p>As we move to an ever more connected, seemless service world, we are inundated with more and more passwords. With all the passwords we have to deal with on daily basis, we&#8217;re defacto behaving in an insecure manner, just to ease the burden that password based security has placed on us.</p>
+
+<p>If you need to protect a section of service, passwords are quickly becoming a bad alternative.</p>
+
+<p>Developers should think twice before implementing a password base system, as it&#8217;s time consuming and very easy to screw up.</p>
+
+<h3>Axiom 1: People reuse passwords because it&#8217;s easy.</h3>
+
+<p>As Bruce Schneier wrote in <a href="http://www.schneier.com/essay-155.html">The Psychology of Security</a>, security is a trade off. It&#8217;s a trade-off between being secure and {Money, Time, Freedom} and so forth. With the explosions of passwords, people&#8217;s natural tendancy is to reuse the same password across multiple sites. It&#8217;s hard to remember a unique password for each site, and much easier to have one password. So we use the same passwords all over. Some people are move savvy and have a set of passwords, while others prefer to use a code to come up with a unique password. By and large however, people reuse passwords.</p>
+
+<p>The reuse of passwords causes a downstream issue. A security breach of your password data not only means that attackers have access to your user&#8217;s data on your site, but could compromise their data on other more valuable sites.</p>
+
+<h3>Axiom 2: Designing a &#8220;Secure Enough&#8221; system is hard</h3>
+
+<p>Since there is no real such thing as an absolute secure system, building one that is good enough will have to suffice. Of course, &#8220;good enough&#8221; is subjective. A bank account has a different set of requirements than securing access to a web forum for Cross-fit Enthusiasts. However, with people reusing passwords over and over again, the minimum bar for a secure-enough system has been raised, such that it&#8217;s very difficult to do properly.</p>
+
+<ul>
+<li>Cryptographically secure hashing algorithms.</li>
+<li>Key Strengthening</li>
+<li>SSL</li>
+<li>Salting Hashs with Cryptographically Random Data</li>
+<li>Password Complexity</li>
+<li>Account Lockout</li>
+<li>Proper Hash Storage</li>
+</ul>
+
+
+<p>These are just some of the parts required to properly secure a password.</p>
+
+<h4>Getting it mostly wrong</h4>
+
+<p><a href="http://passportjs.org/guide/username-password.html">passportjs</a> was passed to me as a potential toolkit for our password needs. We&#8217;re built ontop of nodejs, and at the time of this post, there aren&#8217;t any plug-in-play end to end auth systems. This was suggested as a potential off-the-shelf solution that would save time. I took a look at the guide and had to dismiss it. It&#8217;s not my intention to knock this toolkit, but one look at the Username/Password guide and it raised serious doubts about how well this was implemented.</p>
+
+<h3>Axiom 3: Attacks always get better</h3>
+
+<p>Attackers are smart. They&#8217;re smarter than me, and they&#8217;re definitely smarter than you. Staying ahead of them is hard. Smart companies like Sony, Valve, LinkedIn, have all been victims of sophisticated attacks that have left user data exposed in one way or another. With the attackers learning and iterating, brings the problem that the minimum-bar in Axiom-2 is always being raised. Hash algorithms are broken; computing power becomes better/faster/stronger/cheaper; vulnerabilities in software are found.</p>
+
+<p>How likely are you going to go back and revisit your security system?
+What if you found out about a serious attack on a site that you could be vunerable to?
+How often do you pay attention to attacks?</p>
+
+<h3>A problem waiting to happen</h3>
+
+<p>By opting to store user passwords, you&#8217;re essentially signing up to guard what could be very valuable information. Users may have inadvertantly given you the keys to their kingdom, access to which could have <a href="http://www.emptyage.com/post/28679875595/yes-i-was-hacked-hard">dire consequences</a>.</p>
+
+<p>So you have to get it right. <em>The first time</em></p>
+
+<p>But you won&#8217;t.</p>
+
+<p>Because it&#8217;s hard, and you&#8217;re not that good.</p>
+
+<h3>Challenge this!</h3>
+
+<p>You can attempt to protect the users from themselves: force a highly obtuse password complexity policy that pretty much guarentees a unique password.</p>
+
+<p>But they&#8217;ll probably forget it, and have to use the password reset feature.</p>
+
+<p>Which may use a challenge response question (What highschool did you attend?).</p>
+
+<p>But did you remember securely hash the answer to the challenge?</p>
+
+<p>Kudos.</p>
+
+<p>What about the question itself?</p>
+
+<p>Fuckbeans.</p>
+
+<p>If you&#8217;re not careful, your challenge system will become a proxy for your password system, and will likely be easier to get around.</p>
+
+<h4>All too easy</h4>
+
+<p>When I first started at my last company, I required access to our customer demo system to make some changes. While I was waiting for someone to approve my account, I snooped around the User table database looking for creds, so I could start working (Winners want the ball in their hands). Of course the passwords were hashed, as were the answers for the challenge question. However the question themselves were not, and taking a look through them, I was suprised at the number of questions that read &#8220;The name of the company you work for.&#8221; One look at one persons registered email, and I was in, and able to make changes to the customer demo portal.</p>
+
+<h3>An Almost Perfect Solution</h3>
+
+<p>If you&#8217;re inclined to believe any of what I&#8217;ve written, password auth systems aren&#8217;t worth their time. A user&#8217;s password has now more valuable that the stuff we&#8217;re likely protecting it with. We could generate a password that is guarenteed to be unique, but they&#8217;ll forget and rely on the &#8220;Forgotten Password&#8221; mechanism to login.</p>
+
+<p>[Editors note: As I was writing this, I had to use the forgotten password system to get access to my Disquss account. How the fuck would I remember a password I use every 6+ months?]</p>
+
+<p>As I mentioned earlier, this Forgotten Password mechnasim is essentially a proxy for password auth. You click a link saying you forgot your password, you&#8217;re emailed a new link that takes you to a site, where you create a new password, and then you&#8217;re let in to do your business.</p>
+
+<p>So why even have the password in the first place?</p>
+
+<p>This is the core concept behind OpenID. Instead of supporting passwords, I&#8217;ll defer my authentication to a well-trusted provider like Google. Google will provide us with identity information, and handle the authentication, and mangement of secure data.</p>
+
+<p>Google Engineers (whom I consider to be the cream of the crop of corporate-slave engineers) are smart. Google has the resources to build the proper comprehensive layered system that we need. Let&#8217;s let them manage auth for us.</p>
+
+<p>But the idea of letting Google manage our user identities, doesn&#8217;t sitwell with the bosses. &#8220;Not everyone has a Google account.&#8221;</p>
+
+<h3>Bringing Balance to the Force</h3>
+
+<p>Instead of deferring identity management to OpenID providers, I propose a solution that instead defers authentication to your users email provider. It&#8217;s the Forgotten Password Scenario, without actually having passwords to forget.</p>
+
+<p>It works like this:</p>
+
+<ol>
+<li>Alice visits Bob.com</li>
+<li>Alice decides to create an account.</li>
+<li>Alice enters her email address.</li>
+<li>An email is sent to Alice&#8217;s address containing a link. (Note: This is usually done anyway to validate that Alice does actually own the email submitted )</li>
+<li>Alice Clicks the Link, which takes Alice to the secure portion of Bob.com</li>
+<li>Bob.com stores an auth cookie on Alice&#8217;s computer, that expires in 30 days.</li>
+<li>Anytime Alice visit&#8217;s Bob.com, Alice is allowed to access the secure portion of Bob.com</li>
+</ol>
+
+
+<h3>A rose by any other name</h3>
+
+<p>The way forgotten passwords scenario typically works is essentially generating a &#8220;one time passsword.&#8221; If you&#8217;ve done online banking, you&#8217;ve no doubt come across a OTP. The bank will usually send you a text message with a short code that you enter that gives you access to your account. This is called 2nd Factor Auth; it&#8217;s part of the concept of layering security. The three factors most commonly employed are: Something you know (password), Something you have (a cell phone), and Something You are (Biometrics). The more you add, the harder it is to fake an identity.</p>
+
+<p>So the link is a one-time password. You click the link, and you&#8217;re allowed into the site. The password entry mechanism is transparent to users (it&#8217;s part of the URL), but the password is only good for one use, and usually will expire after a set time.</p>
+
+<p>With the forgotten password scenario, we have close to 2-factor auth: Something you know (your email password), and something you have (an email account). It&#8217;s not quite 2-factor, as proper 2-factor requires two distinct systems (your brain, and a physical token generator for example).</p>
+
+<h3>Examples in the Wild</h3>
+
+<p>We&#8217;ve seen this approach used now when it comes to authenticating devices. If you enable Netflix streaming on your XBox, you&#8217;re given a short-code to enter, instead of entering your email and password&#8211;a cumbersome process when using a gamecontroller.</p>
+
+<p>When you don&#8217;t have an easy way to enter in text, it&#8217;s much easier to use a short-code to auth devices.</p>
+
+<p>This was also solution I proposed at my previous company. Instead of using a username and password, instead authorize the device with a one-time password. The idea was sound, but the execution was terrible (Math.Random to generate a security token&#8230;the horror, the horror.)</p>
+
+<p>Windows8 now allows login via a 4 digit pin, even with access to a keyboard, because typing in a password that is long and secure will make users less likely to use passwords in the first place.</p>
+
+<h3>Even roses have a thorns</h3>
+
+<p>This solution is pretty straight forward, but it&#8217;s not perfect (no secure system is.)</p>
+
+<h4>Extra Work for the User</h4>
+
+<p>It requires the user to login to their email account to retrieve the access code (or access link). For many of us, we have our emails open constantly, and it&#8217;s no big deal, but it is an extra step that doesn&#8217;t exist with password auth.</p>
+
+<h4>Kiosk Mode</h4>
+
+<p>Storing a cookie for 30-days isn&#8217;t a good idea for people who are accessing thier accounts from a non-secure computer.</p>
+
+<p>You could prompt the user to remember the login for 30-days (this is usually done via a checkbox at the login screen), but that is more work to support.</p>
+
+<h4>Unfamiliar Workflow</h4>
+
+<p>For many users, this workflow is unfamiliar, and thus causes Suits to worry about it&#8217;s impact.</p>
+
+<h4>The email is the weakest link in the chain</h4>
+
+<p>If it was already, this approach puts the responsibility of security on the email provider. Granted, that&#8217;s been the case thus far&#8211;anyone who can log into my personal email account could potentially wreak untold havok: order a ton of stuff from amazon, take down my companies entire infrastructure, remotely wipe my ipad, iphone, and laptop, and of course, access my facebook account, and worst of all, send dick-photos to my contacts.</p>
+
+<h3></h3>
+
+<p>Despite the downsides mentioned above, getting rid of passwords is a better solution. You no longer are liable for storing super valuable information, and the complexity of your security system is reduced drastically, with <em>NO</em> reduction in security at all. Moving forward, companies should take a hard look at using deferred authorization schemes such as OpenID, but if they can&#8217;t handle the deferred ownership of user information, consider a One-Time Password based security system using email addresses.</p>
+
+<p>In the long run, your users will benefit, and you won&#8217;t be adding to the problem.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to the Jungle]]></title>
+    <link href="http://aballs.com/blog/2012/10/29/welcome-to-the-jungle/"/>
+    <updated>2012-10-29T02:03:00-07:00</updated>
+    <id>http://aballs.com/blog/2012/10/29/welcome-to-the-jungle</id>
+    <content type="html"><![CDATA[<h3>Back again for the 1nd time.</h3>
+
+<p>I&#8217;m trying yet another attempt at blogging. Maybe I&#8217;ll be succesful this time. Either way it&#8217;s an excuse to play with some new technologies out. For this, I&#8217;m using Octopress. The folks behind Octopress claim it&#8217;s a &#8216;blog for hackers&#8217; but by hackers they really mean &#8216;blog for people who like to write code and or use scripts to get things done.&#8217; I definitely fall into the latter camp (though I&#8217;ve been known to reverse engineer the authentication schemes of mobile apps from time to time).</p>
+
+<p>Currently, I&#8217;m Cofounder, and VP of Engineering for a young startup here in Seattle. My work consumes almost all my time, and so I&#8217;m not betting that I&#8217;ll be too successful with yet another blogging endeavor.</p>
+
+<h3>Reality Distortion Field</h3>
+
+<p>Bravo has a new Reality Show coming out about startups in Silicon Valley. The sense I get from random internet noise is that this show isn&#8217;t going to be very popular. But as a new entrepreneur, I&#8217;m interested in seeing how it compares to my experiences.</p>
+
+<p>Bravo has posted some preview clips, and I&#8217;ve seen a few. There is one about an <a href="http://www.bravotv.com/start-ups-silicon-valley/season-1/videos/a-disrespectful-pitch">Investor Pitch</a> that struck a chord with me.  With my role as a cofounder of a startup, I&#8217;ve been recieving a lot of hands long experience and learning about entrepreneurship, and the business side of a software company. One of the best parts of my job (there are a lot of them), is meeting with and pitching investors.</p>
+
+<p>After watching the clip, my first reaction was &#8220;Meh.&#8221; It matches my experience&#8211;pitch meetings have a casual feel to them; you want a singular voice (though everyone should contribute to the conversation). However, Ben (the british guy) was wrong, you can&#8217;t expect an investor pitch to follow a specific plan. Some investor meetings, we&#8217;ve walked through the pitch deck, others we jumped right into the product, some investors wanted to talk go to market stragies, others about getting to the series-A round. So far what I&#8217;ve learned is that investors have a variety of things their interested in, and while there are some commonalities in these pitches, the experience seems is far more dictated by the people we&#8217;re pitching, then any formula you learned in school. It shows a lack of maturity on Ben&#8217;s part, but acting indignant, and saying how he feels that it was disrespectful for the investor to jump into the pitch deck himself.</p>
+
+<p>When watching the clip, I ignored the pacing of the meeting&#8211;reality tv shows are notorious about edits and cuts to make something seem like it has more tension and thus more drama.</p>
+
+<p>So overall, I think the show could be interesting. Some of the other clips about partying, and life outside of the office don&#8217;t match my experiences but I do plan on giving the show a try. Maybe I can use a weekly recap as a way to force myself into blogging more regularly?</p>
+
+<p>Survey Says&#8230;</p>
+]]></content>
+  </entry>
+  
+</feed>
