@@ -43,5 +43,5 @@ Now though, there are ginourmously large data-centers the size of small town, th
 So now when people try and talk to me about BigData, I just pop open a PBR, and tell them "I was in big data, before it was cool to be in BigData."
 
 
-[giz]: http://www.gizmodo.com "Gizmodo"
+[giz]: http://gizmodo.com/5964737/what-is-big-data "Gizmodo"
 [crunch]: http://www.amazon.com/Super-Crunchers-Thinking-Numbers-Smart/dp/0553384732 "Super Crunchers"
