@@ -4,7 +4,7 @@
   <title><![CDATA[Category: rant, | balls' blog]]></title>
   <link href="http://aballs.com/blog/categories/rant-/atom.xml" rel="self"/>
   <link href="http://aballs.com/"/>
-  <updated>2012-12-03T00:47:25-08:00</updated>
+  <updated>2012-12-03T00:49:13-08:00</updated>
   <id>http://aballs.com/</id>
   <author>
     <name><![CDATA[Alan]]></name>
@@ -18,13 +18,15 @@
     <link href="http://aballs.com/blog/2012/12/02/big-data-hipster/"/>
     <updated>2012-12-02T23:56:00-08:00</updated>
     <id>http://aballs.com/blog/2012/12/02/big-data-hipster</id>
-    <content type="html"><![CDATA[<p>*Note: I know that <a href="http://gizmodo.com/5964737/what-is-big-data" title="Gizmodo">gizmodo</a> just ran an article about BigData, however that was purely coincidence. I'll assume most of you read it, and won't bother repeating most of what was covered on it.</p>
+    <content type="html"><![CDATA[<p><em>Note: I know that <a href="http://gizmodo.com/5964737/what-is-big-data" title="Gizmodo">gizmodo</a> just ran an article about BigData, however that was purely coincidence. I'll assume most of you read it, and won't bother repeating most of what was covered on it.</em></p>
 
 <p>These days suits (def: suit. [n] pejorative term for people who don't add real value) are all clamoring about BigData. I tend to dislike techbuzz words, and I <em>REALLY</em> despise folks who've never actually delt in the space, giving advice or giving opinions:</p>
 
-<blockquote><p>"Oh, you really should learn Ruby on Rails. It's very good stack."
-"Have you built anything via Ruby on Rails?"
-"..."</p></blockquote>
+<blockquote><p>"Oh, you really should learn Ruby on Rails. It's very good stack."</p>
+
+<p>"Have you built anything via Ruby on Rails?"</p>
+
+<p>"..."</p></blockquote>
 
 <p>As an aside, Ruby on Rails is a fine technology, but it's not the <em>only</em> technology that does what it does. Choosing a stack based on the recommendation from someone who has no direct experience working with it, makes as much sense as calling a random payphone in New Guinea and asking for a dental referral.</p>
 
