@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: bigdata | balls' blog]]></title>
+  <link href="http://aballs.com/blog/categories/bigdata/atom.xml" rel="self"/>
+  <link href="http://aballs.com/"/>
+  <updated>2012-12-03T00:41:44-08:00</updated>
+  <id>http://aballs.com/</id>
+  <author>
+    <name><![CDATA[Alan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Big Data Hipster]]></title>
+    <link href="http://aballs.com/blog/2012/12/02/big-data-hipster/"/>
+    <updated>2012-12-02T23:56:00-08:00</updated>
+    <id>http://aballs.com/blog/2012/12/02/big-data-hipster</id>
+    <content type="html"><![CDATA[<p>*Note: I know that <a href="http://www.gizmodo.com" title="Gizmodo">gizmodo</a> just ran an article about BigData, however that was purely coincidence. I'll assume most of you read it, and won't bother repeating most of what was covered on it.</p>
+
+<p>These days suits (def: suit. [n] pejorative term for people who don't add real value) are all clamoring about BigData. I tend to dislike techbuzz words, and I <em>REALLY</em> despise folks who've never actually delt in the space, giving advice or giving opinions:</p>
+
+<blockquote><p>"Oh, you really should learn Ruby on Rails. It's very good stack."
+"Have you built anything via Ruby on Rails?"
+"..."</p></blockquote>
+
+<p>As an aside, Ruby on Rails is a fine technology, but it's not the <em>only</em> technology that does what it does. Choosing a stack based on the recommendation from someone who has no direct experience working with it, makes as much sense as calling a random payphone in New Guinea and asking for a dental referral.</p>
+
+<p>I digress.</p>
+
+<p>Since the suits are all talking about BigData, everyone is trying to jump on the BigData bandwagon, to earn some sort of points.</p>
+
+<ul>
+<li>"Mobile?" [x]</li>
+<li>"Social Media?" [x]</li>
+<li>"Responsive Design?" [x]</li>
+<li>"BigData?" [x]</li>
+</ul>
+
+
+<p>Congratulations: 4 for 4. You have a 100m company!</p>
+
+<p>BigData is really two parts:
+1. Storing and processing large quantities of data, too large for standard scale computing
+1. Using that data to find information that wouldn't otherwise be available</p>
+
+<h4><em>So you generate a lot of data? Who cares. What the fuck are you doing with it?</em></h4>
+
+<p><a href="http://www.amazon.com/Super-Crunchers-Thinking-Numbers-Smart/dp/0553384732" title="Super Crunchers">Super Crunchers</a> got me pretty excited about finding patterns and meaning behind data. Data driven analytics is whats <em>really</em> hot, not generating a lot of data. Any asshole can fire up hadoop, or map reduce and churn through a butt load of Apache Webserver Logs (okay actually that's not true. There are many dipshits devops guys who can't do that). What's far more interesting: learning from that data, and extracting valuable insight. Pandora (aka the Music Genome Project) is a great example of this. They churned through a lot of user experimental data to create a learning algorithm to predict music tastes based on a variety of factors. Amazon.com has done this as well to an amazing degree. Google's ab testing for ad unites is another use of large scale data crunching.</p>
+
+<p>But you're still stuck trying to process TB of data using rack mounted window's machines? Okay chief. That's not BigData. It was in 2004, but not anymore. If you don't require cloud infrastructure to get through your data, it's not big. it's just unweildy.</p>
+
+<p>Even still, processing a large load of data isn't anything new. Back in 2004, we was crunching through GB's of historical stock record data, feeding that data into a scalable processing math engine developed by a ninja team of PhD's. The idea was to find a signal to use to make predictions in highspeed stock market trading. We didn't have hadoop, or AWS, and the Cloud was something that hung over Seattle constantly. We built our own scalable processing network infrastructure to churn through all that data, and invested in a ton of ubercheap, but ultra powerful off-the shelf dell pc's to farm through the data. We had so many machines that we had to have the office rewired to handle it. We had a specific sequence to power on machines, to prevent from overwhelming the circuit loops.</p>
+
+<p>Now though, there are ginourmously large data-centers the size of small town, that house hundreds of thousands of machines, that each run virtual machines on them. That's the scale of BigData.</p>
+
+<p>So now when people try and talk to me about BigData, I just pop open a PBR, and tell them "I was in big data, before it was cool to be in BigData."</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,15 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://balasuar.github.com/blog/2012/10/29/welcome-to-the-jungle/</loc>
-        <lastmod>2012-10-29T02:46:35-07:00</lastmod>
+        <loc>http://aballs.com/blog/2012/10/29/welcome-to-the-jungle/</loc>
+        <lastmod>2012-11-13T23:28:53-08:00</lastmod>
     </url>
     <url>
-        <loc>http://balasuar.github.com/</loc>
-        <lastmod>2012-10-29T02:46:35-07:00</lastmod>
+        <loc>http://aballs.com/blog/2012/10/31/the-case-against-password-auth/</loc>
+        <lastmod>2012-11-13T23:28:53-08:00</lastmod>
     </url>
     <url>
-        <loc>http://balasuar.github.com/blog/archives/</loc>
-        <lastmod>2012-10-29T02:46:35-07:00</lastmod>
+        <loc>http://aballs.com/blog/2012/12/02/big-data-hipster/</loc>
+        <lastmod>2012-12-03T00:39:32-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://aballs.com/</loc>
+        <lastmod>2012-12-03T00:39:32-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://aballs.com/blog/archives/</loc>
+        <lastmod>2012-12-03T00:39:32-08:00</lastmod>
     </url>
 </urlset>
