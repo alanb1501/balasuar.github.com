@@ -47,3 +47,4 @@ So now when people try and talk to me about BigData, I just pop open a PBR, and 
 
 [giz]: http://gizmodo.com/5964737/what-is-big-data "Gizmodo"
 [crunch]: http://www.amazon.com/Super-Crunchers-Thinking-Numbers-Smart/dp/0553384732 "Super Crunchers"
+
