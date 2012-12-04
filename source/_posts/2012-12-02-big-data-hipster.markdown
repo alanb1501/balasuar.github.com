@@ -5,12 +5,14 @@ date: 2012-12-02 23:56
 comments: true
 categories: rant, buzzwords, bigdata 
 ---
-*Note: I know that [gizmodo][giz] just ran an article about BigData, however that was purely coincidence. I'll assume most of you read it, and won't bother repeating most of what was covered on it.
+*Note: I know that [gizmodo][giz] just ran an article about BigData, however that was purely coincidence. I'll assume most of you read it, and won't bother repeating most of what was covered on it.*
 
 These days suits (def: suit. [n] pejorative term for people who don't add real value) are all clamoring about BigData. I tend to dislike techbuzz words, and I *REALLY* despise folks who've never actually delt in the space, giving advice or giving opinions:
 
 > "Oh, you really should learn Ruby on Rails. It's very good stack." 
+
 > "Have you built anything via Ruby on Rails?"
+
 > "..."
 
 As an aside, Ruby on Rails is a fine technology, but it's not the *only* technology that does what it does. Choosing a stack based on the recommendation from someone who has no direct experience working with it, makes as much sense as calling a random payphone in New Guinea and asking for a dental referral.
@@ -43,5 +45,5 @@ Now though, there are ginourmously large data-centers the size of small town, th
 So now when people try and talk to me about BigData, I just pop open a PBR, and tell them "I was in big data, before it was cool to be in BigData."
 
 
-[giz]: http://www.gizmodo.com "Gizmodo"
+[giz]: http://gizmodo.com/5964737/what-is-big-data "Gizmodo"
 [crunch]: http://www.amazon.com/Super-Crunchers-Thinking-Numbers-Smart/dp/0553384732 "Super Crunchers"
