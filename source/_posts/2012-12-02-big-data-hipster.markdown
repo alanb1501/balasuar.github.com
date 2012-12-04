@@ -29,6 +29,7 @@ Since the suits are all talking about BigData, everyone is trying to jump on the
 Congratulations: 4 for 4. You have a 100m company! 
 
 BigData is really two parts:
+
 1. Storing and processing large quantities of data, too large for standard scale computing
 1. Using that data to find information that wouldn't otherwise be available
 
