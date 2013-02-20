@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[balls' blog]]></title>
+  <link href="http://aballs.com/atom.xml" rel="self"/>
+  <link href="http://aballs.com/"/>
+  <updated>2013-02-20T15:18:42-08:00</updated>
+  <id>http://aballs.com/</id>
+  <author>
+    <name><![CDATA[Alan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How To Land a Job Working with Me]]></title>
+    <link href="http://aballs.com/blog/2013/02/22/how-to-land-a-job-working-with-me/"/>
+    <updated>2013-02-22T22:13:00-08:00</updated>
+    <id>http://aballs.com/blog/2013/02/22/how-to-land-a-job-working-with-me</id>
+    <content type="html"><![CDATA[<h2>Introduction</h2>
+
+<p>Hiring. It&#8217;s the single most important thing I do for any organization. I was hired for this job, and now I will hire others to work with me. I&#8217;d like to talk (not so) briefly about how I evaluate candidates, start to finish. Some of this is really only applicable to those who work in software: PM&#8217;s, Devs, and Test, however other bits I feel are universal across all industries.</p>
+
+<h4>Caveat 1</h4>
+
+<p>Right now, it&#8217;s very difficult to find talented engineers in Seattle. There are a lot of funded companies doing interesting things, and so good developers have a pick of opportunities. If for some reason, you believe you are a good developer but aren&#8217;t finding success, then I ask you to consider what I&#8217;m going to tell you, because it&#8217;s probably going to make a difference in finding a job.</p>
+
+<h4>Caveat 2</h4>
+
+<p>If you&#8217;ve gone through this process, and were not extended an offer, all it really means was that you weren&#8217;t the right fit for our engineering position. I&#8217;ve been rejected for one opportunity, hired for others and have found success. It isn&#8217;t necessarily about winning here, it&#8217;s about taking shots.</p>
+
+<h4>Software vs !Softare</h4>
+
+<p>For readers who aren&#8217;t in the software world, interviewing in the world of software (including Tech-PM, Dev, Test and Dev Manager), is unique among other fields, especially other engineering fields, in that the process is highly technical. We&#8217;re less likely to be asked to describe a time when we did not get along with a manager, and instead, asked questions around subject matter expertise, fundamentals of software engineering, as well as to design and actually write code.</p>
+
+<p>A typical full interview loop consists of 6 to 8, 1-hour sessions with different interviewers all asking some sort of question.</p>
+
+<p>Good companies will usually provide lunch somewhere in the middle.</p>
+
+<h2>Part 1: My Experiences as a Candidate</h2>
+
+<p>I know that I am biased towards my hiring procedures based on my experiences interviewing for developer jobs, and with that in mind, here are some highlights from my formative years as an engineer.</p>
+
+<h3>In the Beginning</h3>
+
+<p>For the record, when I first started, I sucked as a software engineer candidate. Not because I sucked as a developer, but because I lacked the skills to perform adequately in interviews. It wasn&#8217;t all terribad, I did successfully interview for an internship position, that did require some minimal white-board coding.</p>
+
+<!-- more -->
+
+
+<p>However I must have gotten lucky on the whiteboard, because the next time I was presented with that opportunity I failed miserably. I was interviewing for a full-time position at Expedia. The interviewer and I had a really great rapport, but then it came to the technical question.</p>
+
+<blockquote><p>How do you reverse a linked-list?</p></blockquote>
+
+<p>I did pretty much the worst things you can do as a candidate. I sat there quietly, with a puzzled look on my face, for what seemed like an eternity, after which I said &#8220;Uh, I don&#8217;t know.&#8221;</p>
+
+<p>The interviewer had this look on his face, like &#8220;DUMBASS.&#8221; He tried to be courteous but I could tell he was pissed that I wasted his time.</p>
+
+<p>Next, for my interview at Boeing, I again had a really good rapport with my interviewer, and was invited for an on-site interview. Boeing is actually highly selective of college-hire engineers, though I actually did not go through a single coding interview while I was there. That was pretty much an anomaly in my career as an developer candidate. I count myself pretty lucky for my Boeing gig, because I was exposed to a lot of different technologies, thrown into the deep end and surrounded by some very seriously talented engineers, making it an excellent learning experience.</p>
+
+<h3>The Middle Years</h3>
+
+<p>When I had decided to move back to WA, I had to restart the interviewing process. Again I found myself interviewing with Expedia. I had a phone screen, again great rapport with the interviewer, and this time able to answer the question:</p>
+
+<blockquote><p>How do you implement a queue with a stack?</p></blockquote>
+
+<p>I nailed it, and was invited for an in person interview. I only goofed during one part of the interview, which involved traversing an array and removing elements from it. I was able to solve the problem, but when the interviewer through in the &#8220;curve-ball&#8221;, I struggled to resolve it. Still, I felt that I had talked intelligently enough about my process that I got a &#8220;Hire&#8221; vote from the guy.</p>
+
+<p>In a random chance, I was also interviewed by the same guy who interviewed me on campus a few years back. He gave me the same question, and I smiled and told him &#8220;You actually interviewed me on campus, and asked me this same question, and I did terrible at it, and you got upset because I wasted your time.&#8221; He kind of smiled, then asked me to solve it again, because apparently he didn&#8217;t believe me. I nailed the question in 30 seconds, then he gave me a much much harder one, and I was able to solve that as well. He said he was impressed that I was able to solve it, and thanked me for being honest.</p>
+
+<p>Sadly, in the end I was rejected. I felt that I had done well enough: solved technical problems, great rapport with most of the interviewers, and generally showed my potential as an up and coming engineer powerhouse. I said most of the interviewers, because I said unintentionally said something hella creepy to the lady who conducted my lunch interview.</p>
+
+<p>For my interview at Clearsight Systems, I was given a series of tasks: a written questionnaire, design a parking garage, debug this program, and finally some white board coding. I did well enough on all them to land the job. For the white board coding portion, it felt pretty good when both the interviewers expressed that they felt more than satisfied that I knew what I was talking about. Bam. Got the job.</p>
+
+<p>When Clearsight started to go under, I interviewed for a position at BioPassword. There, I had a mix of success. I remember vividly I was unable to code up an algorithm for Boggle, but I think that because I had come in with a recommendation, I was able to get the job. I knew I had done well enough because I was asked to interview with the CEO of the company. Usually when you talk to the CEO, it&#8217;s a great sign that the company is interested in you.</p>
+
+<h3>Hitting my Stride</h3>
+
+<p>These days, I&#8217;ve gotten to be pretty good at interviewing. I know I still struggle with completely nailing all white board questions, so I have to really prep for each interview, but I can count on one hand the number of times I&#8217;ve done either a phone screen, or a full-loop in which I was not able to move forward.</p>
+
+<p>For my last stint as an employee, I had in my hand 7 job offers, having nailed each interview I did. Some had contacted me the evening of the interview, to offer me a job. I&#8217;ve yet to test myself in what I believe is the pinnacle of tough interviews: Google, but I would say that though I&#8217;m very confident I would be very successful as an engineer at Google, I really feel like I wouldn&#8217;t succeed passing the interview.</p>
+
+<h2>Part II: On the Other Side</h2>
+
+<p>So you want to come work with us. How do you make that happen?</p>
+
+<h3>Step 1: The Resume</h3>
+
+<p>I&#8217;ve gotten pretty good at critiquing resumes, especially for developers. The first step in working with me is getting your resume right.</p>
+
+<p>The resume is going to bias me one way or the other. If it sucks, I&#8217;ll think you suck. If it&#8217;s okay, I might see potential. If it&#8217;s stellar, I will be more likely to believe you are stellar.</p>
+
+<h4>Evaluation</h4>
+
+<p>I quickly glance at resumes. I look at education, look at what they are doing currently, I look to see if any achievements stand out, then I check for red-flags.</p>
+
+<h4>Protip: Lose the objective section.</h4>
+
+<p>As a developer, I expect your objective to be:</p>
+
+<blockquote><p>&#8220;I&#8217;m one of the greatest developers on the planet, and I wanna work with kick ass people, and make major contributions to your organizations success. Hire me, and I&#8217;ll prove it.&#8221;</p></blockquote>
+
+<p>If you tell me otherwise, I will ding you. One time a candidate had on her resume that she wanted to find a position that would allow her to learn HTML5. I passed. I&#8217;m sure she has a busy life outside of work, and yes it&#8217;s way easier to learn technology on the job. However, if you want to learn HTML5, why don&#8217;t you just do it? Take a course, buy a book, whatever, software development is a field where the start-up costs are pretty much nil. I put much more stock in candidates who put in effort outside of their job to learn new technologies, because hopefully they can bring some of that learning to our team.</p>
+
+<h4>Protip: Be Achievement Oriented</h4>
+
+<p>Instead of the &#8220;What did I do for company XYZZY?&#8221; tell me what the results of your work were.</p>
+
+<blockquote><p>Increased the ratings of our iOS app from 2.5 stars, to 3.5 stars. In. My. First. Release. Eventually I increased the rating from 2.5 to 4.5 stars.</p></blockquote>
+
+<p>It took me quite a long while to start thinking of achievements, instead of daily-responsibilities, and even longer to actually get some impressive achievements under my belt. Make me aware of how much value you bring to an organization. Now, most people still don&#8217;t do this, so if you do, you will put yourself ahead of the pack.</p>
+
+<h4>Protip: Keep it simple</h4>
+
+<p>I groan every time I see a 3+ page resume. Seriously, I don&#8217;t give a shit what you did 5 years ago, let alone 10, unless it was invent Facebook. Seriously, 1 page. 2 if you&#8217;re bad ass</p>
+
+<h4>Protip: Mind your history</h4>
+
+<p>If your resume is littered with stints of less than 1 year at various companies, that is a red-flag. Perhaps that person hasn&#8217;t yet found the right company, or perhaps they&#8217;re just not a good fit anywhere.</p>
+
+<p>I&#8217;ve never been laid off. I&#8217;ve survived through many many rounds of layoffs, and I consider myself only an above average engineer. If you&#8217;ve been laid off, hopefully there was a good reason.</p>
+
+<p>If there are gaps in your resume, please fill them with meaningful work. Start a side project, go back to school, do an on-line cert, whatever. Just do something other than sit around.</p>
+
+<h4>Contract vs Full Time</h4>
+
+<p>If this is for a full-time position, and you&#8217;ve only worked as a contractor, I wonder if you&#8217;ll enjoy working as a full-time person for very long. There is nothing wrong with contract work; it offers the greatest amount of flexibility, freedom, and ability to pick and choose your projects, and for a lot of people there is a certain allure to that. There is also the allure of ultimately not giving a shit about the client company. You&#8217;re paid to do a job, and you&#8217;re going to do a good job (hopefully), or at least do what they ask. As a full time hire, we need you to be more than just a developer. We need you to help steer the ship in case of trouble waters, to help bail if we take on water, and possibly rebuild the ship if necessary. There is more responsibility as a full-time person, and I need to know you&#8217;re ready for that.</p>
+
+<h4>Education</h4>
+
+<p>Education is a hot-button issue for hiring. I&#8217;m of the opinion that education is important, but if you lack a formal degree, you hopefully have a good reason. Right off the bat, if I see someone with other than an engineering, CS or math degree, I have concern about where the learned the very basics of development. I won&#8217;t reject them outright, but I will need to see where they fall in basic understanding of computer science. Certainly not having a super strong grasp isn&#8217;t a show stopper, but not having rudimentary understanding of the basics is.</p>
+
+<p>I also won&#8217;t bias against schools, but I will bias up schools like MIT, Harvard, and Stanford, etc. I&#8217;ll still need to verify you are awesome, but I will probably have a higher opinion of you when we start this process.</p>
+
+<h3>Step 2: Applying for a position</h3>
+
+<p>This is straight forward. If I ask you for:</p>
+
+<ol>
+<li>Your Resume</li>
+<li>A paragraph about yourself</li>
+<li>Link to your Github account</li>
+<li>Link to portfolio work</li>
+</ol>
+
+
+<p>Please send me all these things, when applying. Otherwise I will assume you didn&#8217;t bother to read my posting, and just copy and pasted your response. If you won&#8217;t put effort into applying to work with me, I&#8217;ll just assume you won&#8217;t apply effort when you actually do. That&#8217;s probably an unfair, but so is life.</p>
+
+<p>Since I suck at writing cover letters, so unless it&#8217;s really bad, or really exceptional, I won&#8217;t make too much out of one.</p>
+
+<h3>Step 3: Phone Screen</h3>
+
+<p>If you&#8217;ve made it past my resume filters, and I want to talk with you. Sweet!</p>
+
+<p>First we&#8217;ll do a quick fit-screen. Really if you have a pulse, can talk intelligibly about something, and show some sort of passion, you&#8217;ll pass this part.</p>
+
+<p>Next is the tech phone screen. Usually I use this part to assess if your resume is bullshit. Surprisingly I know quite a bit about a lot of software subjects, so I can usually ask intelligent questions, and I expect intelligent responses. I say surprisingly, because I&#8217;ve gotten a lot of comments over the years about how I know those things (#humblebrag). Then if I&#8217;m feeling good about those answers, I&#8217;ll as a technical question, like (sound familiar?)</p>
+
+<blockquote><p>Implement a queue with a stack</p></blockquote>
+
+<p>Unfortunately there have been a few occasions where I felt satisfied with the resume answers, but did not continue with the technical questions, due to not being able to fully understand a candidate. There are talented developers out there, for whom, English is a 2nd, 3rd, or 1337th language. However given the size of our team, and what <em>we</em> need to do, oral communication skills are paramount. If English is not your strong suit, I recommend finding a speech coach and working through it.</p>
+
+<h3>Step 4: The Full Loop</h3>
+
+<p>And so we&#8217;ve come full-circle. You have a good resume, you did well during the phone screens, so now it&#8217;s time to bring you in for a full-loop.</p>
+
+<p>Because we&#8217;re a small team, you actually will have a couple non-technical interviews, but by and large the bulk of your time is spent with me answering questions on a white board.</p>
+
+<p>In our time together I assess several things:</p>
+
+<ol>
+<li>Can you code?</li>
+<li>How do you solve problems?</li>
+<li>What is your knowledge of algorithms, data structures, and other CS topics?</li>
+<li>How do you approach error handling and testing?</li>
+<li>Design, Collaboration, and Leadership</li>
+</ol>
+
+
+<p>As well as how you attack problem solving, how do you communicate, how do you ask for help, how do you think, etc.</p>
+
+<h4>Can you code?</h4>
+
+<p>As others have written before, the only real way to see if a candidate can code, is to have them code, and to observe them doing it.</p>
+
+<p>I like to ask a pretty simple question to get things started. If the question is super simple, like Fizzbuzz, I expect you code it as close to syntactically correct as possible, in whatever language you prefer. If its slightly harder, I will forgo the syntax requirement and focus more on the coding solution. Regardless, the algorithm is simple, and yet most people struggle here. With this, and questions, I try to steer the candidate into the right direction. If they&#8217;re going to an obvious pitfall, I might ask them to justify why they chose to do what they do.</p>
+
+<h5>Protip: If you vocalize your decisions before hand, I&#8217;ll help steer you to the right solution</h5>
+
+<p>In engineering classes, we would be graded less on the right answer, and more on the process. If you show you work, and how you arrived to your solution, you would be given enough credit to pass the assignment, regardless of the solution. That holds true here. If you show me how you think, I&#8217;ll show you how we work together to solve a problem.</p>
+
+<h4>How do you approach problem solving?</h4>
+
+<p>Engineering in a nutshell is about taking big problems and breaking them up into smaller problems, and applying learned knowledge to solve these smaller problems. Software engineering is no different. I&#8217;m not too much of a stickler on how people approach problem solving, but there are a few red flags that stick out.</p>
+
+<h5>Being Quiet</h5>
+
+<p>I prefer working with people whom I can bounce ideas off of. If you are a quiet thinker, that might work for other organizations, but not for me. Tell me what you are thinking.</p>
+
+<h5>Premature Optimization</h5>
+
+<p>This is usually a learned skill. If you are senior, I expect you to know this.</p>
+
+<h5>Overly Complex Solutions</h5>
+
+<p>I&#8217;m not too bright, so the chances of me asking you to come up with a successor to PageRank is unlikely. No PhD dissertations please.</p>
+
+<h5>Douche Baggery</h5>
+
+<p>Look, white board coding isn&#8217;t the most fun, and there are people who struggle with it, yet are very good developers. Still, as engineers, we&#8217;ve all gone through this shared pain, so bitching about it, being argumentative, and acting like a dickhead isn&#8217;t going to win you any points. I asked one candidate if he wanted some more water before we got started, and he smugly held up his glass and pointed at it.</p>
+
+<blockquote><p>Yes, dumbass, I see your glass has water in it. I asked if you wanted <em>MORE</em> fucking water.</p></blockquote>
+
+<p>You guessed it. No-Hire (his solutions were also shitty)</p>
+
+<h4>What is your knowledge of algorithms, data structures, and other CS topics?</h4>
+
+<p>From the simple solution, I then start asking harder and harder questions. Again helping the candidate reach the right solution. This is where you find out what the candidate knows. I expect a basic level of understanding for data structures:</p>
+
+<ol>
+<li>Linked Lists</li>
+<li>Hash-Tables</li>
+<li>Arrays</li>
+</ol>
+
+
+<p>And when to use each.</p>
+
+<p>I also may probe things like recursive algorithms, synchronization, inheritance, polymorphism, and class design as well. The idea is that you know these fundamentals. If your resume shows that you jumped into CS from a different discipline or lack a formal education, then I will really hit fundamentals, as having a good grasp is usually the challenge that non-CS degreed developers tend to face.</p>
+
+<h4>How do you approach error handling and testing?</h4>
+
+<p>Undoubtedly, a candidate might make a mistake when writing up a solution. I use that as an opportunity to talk about error handling and testing. If the candidate is really good, it&#8217;s often that they didn&#8217;t cover for cases like bad inputs, but more often than not there is a logic error. We&#8217;ll walk through testing the program and debugging and fixing errors. Since we&#8217;re on a white board, the debugging process is slower, but the idea is to see how quickly they pick up on issues.</p>
+
+<h5>Protip: Run a few examples through your code</h5>
+
+<p>It looks good to me, if you take an opportunity to test your solution out.</p>
+
+<h4>Design, Collaboration, and Leadership</h4>
+
+<p>This is where I&#8217;d like candidates to have fun, shine and let their personalities show. I pick something that I&#8217;m interested in, or have worked on recently, and we role play it out.</p>
+
+<blockquote><p>First, pretend I&#8217;m your nit-wit boss, and I&#8217;ve asked you to design and build a mobile analytics platform. I&#8217;m stupid, so I don&#8217;t know what one is, what it does, but I know I need it. Okay, great. Now pretend I&#8217;m also a subordinate, and you have to explain your design decisions to. Also to help, I can also be someone you can bounce ideas off of and ask questions of.</p></blockquote>
+
+<p>Usually at this point, we should have a good rapport going. The point of this exercise is to see how we work together, how you lead the discussion, and really how well you understand the components of an end to end system. Hopefully this pulls together your past experience and knowledge of different facets of software development.</p>
+
+<p>I don&#8217;t expect candidates to be experts here, but I do expect familiarity with building a web-app, including database, redundancy, load balancing, web servers and how they all play together.</p>
+
+<p>If you&#8217;ve made it this far, this is your chance to outshine and really drive home why you are the right candidate for this position. There really aren&#8217;t any tips for this section. Either you&#8217;re our boy Blue, or you&#8217;re not. Give it your best.</p>
+
+<h3>Step 5: The Working Session</h3>
+
+<p>If you&#8217;ve made it through the full loop, we&#8217;ll ask you to come back and work with us in a real working session. We&#8217;ll pick a problem that we&#8217;re currently facing, and all of us will work to solve it. This is as much for you to see us, as it us to see you. It&#8217;s similar to the last part of my 1:1 interview, but now includes the entire team, and a real actual issue we&#8217;re facing.</p>
+
+<p>I&#8217;ve seen some candidates not do well here, and it&#8217;s less about skill, and typically been more about fit to role. Specifically once you&#8217;ve passed the technical portion, we know you&#8217;re a capable developer. What we need to assess is what impact you will make in our organization. The higher the multiplicative impact, the better you look. We want to see how passionate you are about wanting to work with us. This is our lives, our skin in the game, and I want everyone who is going to join us, to want to be a part of that.</p>
+
+<h2>Outroduction</h2>
+
+<p>While people may struggle with certain areas of interviewing with us, if you have passion, you show that you genuinely want to work with us, have smarts, are capable of learning, and get shit done attitude, you&#8217;ll do well here, and pretty much any other organization you interview with. Even though software interviews are highly technical, these soft skills end up minimizing your deficiencies and instead highlight your better qualities.</p>
+
+<p>Interviewing is a skill. It takes practice to get good at it. Hopefully when you interview, even if you don&#8217;t get the job, you feel that the process felt fair, and that you had every opportunity to do your best.</p>
+
+<p>What are your thoughts and experiences interviewing? Hit me up in the comments.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Big Data Hipster]]></title>
+    <link href="http://aballs.com/blog/2012/12/02/big-data-hipster/"/>
+    <updated>2012-12-02T23:56:00-08:00</updated>
+    <id>http://aballs.com/blog/2012/12/02/big-data-hipster</id>
+    <content type="html"><![CDATA[<p><em>Note: I know that <a href="http://gizmodo.com/5964737/what-is-big-data" title="Gizmodo">gizmodo</a> just ran an article about BigData, however that was purely coincidence. I&#8217;ll assume most of you read it, and won&#8217;t bother repeating most of what was covered on it.</em></p>
+
+<p>These days suits (def: suit. [n] pejorative term for people who don&#8217;t add real value) are all clamoring about BigData. I tend to dislike techbuzz words, and I <em>REALLY</em> despise folks who&#8217;ve never actually delt in the space, giving advice or giving opinions:</p>
+
+<blockquote><p>&#8220;Oh, you really should learn Ruby on Rails. It&#8217;s very good stack.&#8221;</p>
+
+<p>&#8220;Have you built anything via Ruby on Rails?&#8221;</p>
+
+<p>&#8220;&#8230;&#8221;</p></blockquote>
+
+<p>As an aside, Ruby on Rails is a fine technology, but it&#8217;s not the <em>only</em> technology that does what it does. Choosing a stack based on the recommendation from someone who has no direct experience working with it, makes as much sense as calling a random payphone in New Guinea and asking for a dental referral.</p>
+
+<p>I digress.</p>
+
+<p>Since the suits are all talking about BigData, everyone is trying to jump on the BigData bandwagon, to earn some sort of points.</p>
+
+<ul>
+<li>&#8220;Mobile?&#8221; [x]</li>
+<li>&#8220;Social Media?&#8221; [x]</li>
+<li>&#8220;Responsive Design?&#8221; [x]</li>
+<li>&#8220;BigData?&#8221; [x]</li>
+</ul>
+
+
+<p>Congratulations: 4 for 4. You have a 100m company!</p>
+
+<!-- more -->
+
+
+<p>BigData is really two parts:</p>
+
+<ol>
+<li>Storing and processing large quantities of data, too large for standard scale computing</li>
+<li>Using that data to find information that wouldn&#8217;t otherwise be available</li>
+</ol>
+
+
+<h4><em>So you generate a lot of data? Who cares. What the fuck are you doing with it?</em></h4>
+
+<p><a href="http://www.amazon.com/Super-Crunchers-Thinking-Numbers-Smart/dp/0553384732" title="Super Crunchers">Super Crunchers</a> got me pretty excited about finding patterns and meaning behind data. Data driven analytics is whats <em>really</em> hot, not generating a lot of data. Any asshole can fire up hadoop, or map reduce and churn through a butt load of Apache Webserver Logs (okay actually that&#8217;s not true. There are many dipshits devops guys who can&#8217;t do that). What&#8217;s far more interesting: learning from that data, and extracting valuable insight. Pandora (aka the Music Genome Project) is a great example of this. They churned through a lot of user experimental data to create a learning algorithm to predict music tastes based on a variety of factors. Amazon.com has done this as well to an amazing degree. Google&#8217;s ab testing for ad unites is another use of large scale data crunching.</p>
+
+<p>But you&#8217;re still stuck trying to process TB of data using rack mounted window&#8217;s machines? Okay chief. That&#8217;s not BigData. It was in 2004, but not anymore. If you don&#8217;t require cloud infrastructure to get through your data, it&#8217;s not big. it&#8217;s just unweildy.</p>
+
+<p>Even still, processing a large load of data isn&#8217;t anything new. Back in 2004, we was crunching through GB&#8217;s of historical stock record data, feeding that data into a scalable processing math engine developed by a ninja team of PhD&#8217;s. The idea was to find a signal to use to make predictions in highspeed stock market trading. We didn&#8217;t have hadoop, or AWS, and the Cloud was something that hung over Seattle constantly. We built our own scalable processing network infrastructure to churn through all that data, and invested in a ton of ubercheap, but ultra powerful off-the shelf dell pc&#8217;s to farm through the data. We had so many machines that we had to have the office rewired to handle it. We had a specific sequence to power on machines, to prevent from overwhelming the circuit loops.</p>
+
+<p>Now though, there are ginourmously large data-centers the size of small town, that house hundreds of thousands of machines, that each run virtual machines on them. That&#8217;s the scale of BigData.</p>
+
+<p>So now when people try and talk to me about BigData, I just pop open a PBR, and tell them &#8220;I was in big data, before it was cool to be in BigData.&#8221;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Case Against Password Auth]]></title>
+    <link href="http://aballs.com/blog/2012/10/31/the-case-against-password-auth/"/>
+    <updated>2012-10-31T00:06:00-07:00</updated>
+    <id>http://aballs.com/blog/2012/10/31/the-case-against-password-auth</id>
+    <content type="html"><![CDATA[<h3>tl;dr</h3>
+
+<p>Password auth is hard and you&#8217;re going to screw it up. Don&#8217;t put your users at risk, and instead let someone who has better resources at their disposal handle password security.</p>
+
+<h2>Introduction</h2>
+
+<p>Passwords are ubiquitous. We have passwords for everything: email, phones, cars, mobile apps, ATMs, bank-accounts, ecommerce sites, alarm systems, picking up our kids, even for sex (say &#8220;pickles&#8221; if this hurts too much).</p>
+
+<p>As we move to an ever more connected, seemless service world, we are inundated with more and more passwords. With all the passwords we have to deal with on daily basis, we&#8217;re defacto behaving in an insecure manner, just to ease the burden that password based security has placed on us.</p>
+
+<p>If you need to protect a section of service, passwords are quickly becoming a bad alternative.</p>
+
+<p>Developers should think twice before implementing a password base system, as it&#8217;s time consuming and very easy to screw up.</p>
+
+<!-- more -->
+
+
+<h3>Axiom 1: People reuse passwords because it&#8217;s easy.</h3>
+
+<p>As Bruce Schneier wrote in <a href="http://www.schneier.com/essay-155.html">The Psychology of Security</a>, security is a trade off. It&#8217;s a trade-off between being secure and {Money, Time, Freedom} and so forth. With the explosions of passwords, people&#8217;s natural tendancy is to reuse the same password across multiple sites. It&#8217;s hard to remember a unique password for each site, and much easier to have one password. So we use the same passwords all over. Some people are move savvy and have a set of passwords, while others prefer to use a code to come up with a unique password. By and large however, people reuse passwords.</p>
+
+<p>The reuse of passwords causes a downstream issue. A security breach of your password data not only means that attackers have access to your user&#8217;s data on your site, but could compromise their data on other more valuable sites.</p>
+
+<h3>Axiom 2: Designing a &#8220;Secure Enough&#8221; system is hard</h3>
+
+<p>Since there is no real such thing as an absolute secure system, building one that is good enough will have to suffice. Of course, &#8220;good enough&#8221; is subjective. A bank account has a different set of requirements than securing access to a web forum for Cross-fit Enthusiasts. However, with people reusing passwords over and over again, the minimum bar for a secure-enough system has been raised, such that it&#8217;s very difficult to do properly.</p>
+
+<ul>
+<li>Cryptographically secure hashing algorithms.</li>
+<li>Key Strengthening</li>
+<li>SSL</li>
+<li>Salting Hashs with Cryptographically Random Data</li>
+<li>Password Complexity</li>
+<li>Account Lockout</li>
+<li>Proper Hash Storage</li>
+</ul>
+
+
+<p>These are just some of the parts required to properly secure a password.</p>
+
+<h4>Getting it mostly wrong</h4>
+
+<p><a href="http://passportjs.org/guide/username-password.html">passportjs</a> was passed to me as a potential toolkit for our password needs. We&#8217;re built ontop of nodejs, and at the time of this post, there aren&#8217;t any plug-in-play end to end auth systems. This was suggested as a potential off-the-shelf solution that would save time. I took a look at the guide and had to dismiss it. It&#8217;s not my intention to knock this toolkit, but one look at the Username/Password guide and it raised serious doubts about how well this was implemented.</p>
+
+<h3>Axiom 3: Attacks always get better</h3>
+
+<p>Attackers are smart. They&#8217;re smarter than me, and they&#8217;re definitely smarter than you. Staying ahead of them is hard. Smart companies like Sony, Valve, LinkedIn, have all been victims of sophisticated attacks that have left user data exposed in one way or another. With the attackers learning and iterating, brings the problem that the minimum-bar in Axiom-2 is always being raised. Hash algorithms are broken; computing power becomes better/faster/stronger/cheaper; vulnerabilities in software are found.</p>
+
+<p>How likely are you going to go back and revisit your security system?
+What if you found out about a serious attack on a site that you could be vunerable to?
+How often do you pay attention to attacks?</p>
+
+<h3>A problem waiting to happen</h3>
+
+<p>By opting to store user passwords, you&#8217;re essentially signing up to guard what could be very valuable information. Users may have inadvertantly given you the keys to their kingdom, access to which could have <a href="http://www.emptyage.com/post/28679875595/yes-i-was-hacked-hard">dire consequences</a>.</p>
+
+<p>So you have to get it right. <em>The first time</em></p>
+
+<p>But you won&#8217;t.</p>
+
+<p>Because it&#8217;s hard, and you&#8217;re not that good.</p>
+
+<h3>Challenge this!</h3>
+
+<p>You can attempt to protect the users from themselves: force a highly obtuse password complexity policy that pretty much guarentees a unique password.</p>
+
+<p>But they&#8217;ll probably forget it, and have to use the password reset feature.</p>
+
+<p>Which may use a challenge response question (What highschool did you attend?).</p>
+
+<p>But did you remember securely hash the answer to the challenge?</p>
+
+<p>Kudos.</p>
+
+<p>What about the question itself?</p>
+
+<p>Fuckbeans.</p>
+
+<p>If you&#8217;re not careful, your challenge system will become a proxy for your password system, and will likely be easier to get around.</p>
+
+<h4>All too easy</h4>
+
+<p>When I first started at my last company, I required access to our customer demo system to make some changes. While I was waiting for someone to approve my account, I snooped around the User table database looking for creds, so I could start working (Winners want the ball in their hands). Of course the passwords were hashed, as were the answers for the challenge question. However the question themselves were not, and taking a look through them, I was suprised at the number of questions that read &#8220;The name of the company you work for.&#8221; One look at one persons registered email, and I was in, and able to make changes to the customer demo portal.</p>
+
+<h3>An Almost Perfect Solution</h3>
+
+<p>If you&#8217;re inclined to believe any of what I&#8217;ve written, password auth systems aren&#8217;t worth their time. A user&#8217;s password has now more valuable that the stuff we&#8217;re likely protecting it with. We could generate a password that is guarenteed to be unique, but they&#8217;ll forget and rely on the &#8220;Forgotten Password&#8221; mechanism to login.</p>
+
+<p>[Editors note: As I was writing this, I had to use the forgotten password system to get access to my Disquss account. How the fuck would I remember a password I use every 6+ months?]</p>
+
+<p>As I mentioned earlier, this Forgotten Password mechnasim is essentially a proxy for password auth. You click a link saying you forgot your password, you&#8217;re emailed a new link that takes you to a site, where you create a new password, and then you&#8217;re let in to do your business.</p>
+
+<p>So why even have the password in the first place?</p>
+
+<p>This is the core concept behind OpenID. Instead of supporting passwords, I&#8217;ll defer my authentication to a well-trusted provider like Google. Google will provide us with identity information, and handle the authentication, and mangement of secure data.</p>
+
+<p>Google Engineers (whom I consider to be the cream of the crop of corporate-slave engineers) are smart. Google has the resources to build the proper comprehensive layered system that we need. Let&#8217;s let them manage auth for us.</p>
+
+<p>But the idea of letting Google manage our user identities, doesn&#8217;t sitwell with the bosses. &#8220;Not everyone has a Google account.&#8221;</p>
+
+<h3>Bringing Balance to the Force</h3>
+
+<p>Instead of deferring identity management to OpenID providers, I propose a solution that instead defers authentication to your users email provider. It&#8217;s the Forgotten Password Scenario, without actually having passwords to forget.</p>
+
+<p>It works like this:</p>
+
+<ol>
+<li>Alice visits Bob.com</li>
+<li>Alice decides to create an account.</li>
+<li>Alice enters her email address.</li>
+<li>An email is sent to Alice&#8217;s address containing a link. (Note: This is usually done anyway to validate that Alice does actually own the email submitted )</li>
+<li>Alice Clicks the Link, which takes Alice to the secure portion of Bob.com</li>
+<li>Bob.com stores an auth cookie on Alice&#8217;s computer, that expires in 30 days.</li>
+<li>Anytime Alice visit&#8217;s Bob.com, Alice is allowed to access the secure portion of Bob.com</li>
+</ol>
+
+
+<h3>A rose by any other name</h3>
+
+<p>The way forgotten passwords scenario typically works is essentially generating a &#8220;one time passsword.&#8221; If you&#8217;ve done online banking, you&#8217;ve no doubt come across a OTP. The bank will usually send you a text message with a short code that you enter that gives you access to your account. This is called 2nd Factor Auth; it&#8217;s part of the concept of layering security. The three factors most commonly employed are: Something you know (password), Something you have (a cell phone), and Something You are (Biometrics). The more you add, the harder it is to fake an identity.</p>
+
+<p>So the link is a one-time password. You click the link, and you&#8217;re allowed into the site. The password entry mechanism is transparent to users (it&#8217;s part of the URL), but the password is only good for one use, and usually will expire after a set time.</p>
+
+<p>With the forgotten password scenario, we have close to 2-factor auth: Something you know (your email password), and something you have (an email account). It&#8217;s not quite 2-factor, as proper 2-factor requires two distinct systems (your brain, and a physical token generator for example).</p>
+
+<h3>Examples in the Wild</h3>
+
+<p>We&#8217;ve seen this approach used now when it comes to authenticating devices. If you enable Netflix streaming on your XBox, you&#8217;re given a short-code to enter, instead of entering your email and password&#8211;a cumbersome process when using a gamecontroller.</p>
+
+<p>When you don&#8217;t have an easy way to enter in text, it&#8217;s much easier to use a short-code to auth devices.</p>
+
+<p>This was also solution I proposed at my previous company. Instead of using a username and password, instead authorize the device with a one-time password. The idea was sound, but the execution was terrible (Math.Random to generate a security token&#8230;the horror, the horror.)</p>
+
+<p>Windows8 now allows login via a 4 digit pin, even with access to a keyboard, because typing in a password that is long and secure will make users less likely to use passwords in the first place.</p>
+
+<h3>Even roses have a thorns</h3>
+
+<p>This solution is pretty straight forward, but it&#8217;s not perfect (no secure system is.)</p>
+
+<h4>Extra Work for the User</h4>
+
+<p>It requires the user to login to their email account to retrieve the access code (or access link). For many of us, we have our emails open constantly, and it&#8217;s no big deal, but it is an extra step that doesn&#8217;t exist with password auth.</p>
+
+<h4>Kiosk Mode</h4>
+
+<p>Storing a cookie for 30-days isn&#8217;t a good idea for people who are accessing thier accounts from a non-secure computer.</p>
+
+<p>You could prompt the user to remember the login for 30-days (this is usually done via a checkbox at the login screen), but that is more work to support.</p>
+
+<h4>Unfamiliar Workflow</h4>
+
+<p>For many users, this workflow is unfamiliar, and thus causes Suits to worry about it&#8217;s impact.</p>
+
+<h4>The email is the weakest link in the chain</h4>
+
+<p>If it was already, this approach puts the responsibility of security on the email provider. Granted, that&#8217;s been the case thus far&#8211;anyone who can log into my personal email account could potentially wreak untold havok: order a ton of stuff from amazon, take down my companies entire infrastructure, remotely wipe my ipad, iphone, and laptop, and of course, access my facebook account, and worst of all, send dick-photos to my contacts.</p>
+
+<h3></h3>
+
+<p>Despite the downsides mentioned above, getting rid of passwords is a better solution. You no longer are liable for storing super valuable information, and the complexity of your security system is reduced drastically, with <em>NO</em> reduction in security at all. Moving forward, companies should take a hard look at using deferred authorization schemes such as OpenID, but if they can&#8217;t handle the deferred ownership of user information, consider a One-Time Password based security system using email addresses.</p>
+
+<p>In the long run, your users will benefit, and you won&#8217;t be adding to the problem.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to the Jungle]]></title>
+    <link href="http://aballs.com/blog/2012/10/29/welcome-to-the-jungle/"/>
+    <updated>2012-10-29T02:03:00-07:00</updated>
+    <id>http://aballs.com/blog/2012/10/29/welcome-to-the-jungle</id>
+    <content type="html"><![CDATA[<h3>Back again for the 1nd time.</h3>
+
+<p>I&#8217;m trying yet another attempt at blogging. Maybe I&#8217;ll be succesful this time. Either way it&#8217;s an excuse to play with some new technologies out. For this, I&#8217;m using Octopress. The folks behind Octopress claim it&#8217;s a &#8216;blog for hackers&#8217; but by hackers they really mean &#8216;blog for people who like to write code and or use scripts to get things done.&#8217; I definitely fall into the latter camp (though I&#8217;ve been known to reverse engineer the authentication schemes of mobile apps from time to time).</p>
+
+<p>Currently, I&#8217;m Cofounder, and VP of Engineering for a young startup here in Seattle. My work consumes almost all my time, and so I&#8217;m not betting that I&#8217;ll be too successful with yet another blogging endeavor.</p>
+
+<h3>Reality Distortion Field</h3>
+
+<p>Bravo has a new Reality Show coming out about startups in Silicon Valley. The sense I get from random internet noise is that this show isn&#8217;t going to be very popular. But as a new entrepreneur, I&#8217;m interested in seeing how it compares to my experiences.</p>
+
+<p>Bravo has posted some preview clips, and I&#8217;ve seen a few. There is one about an <a href="http://www.bravotv.com/start-ups-silicon-valley/season-1/videos/a-disrespectful-pitch">Investor Pitch</a> that struck a chord with me.  With my role as a cofounder of a startup, I&#8217;ve been recieving a lot of hands long experience and learning about entrepreneurship, and the business side of a software company. One of the best parts of my job (there are a lot of them), is meeting with and pitching investors.</p>
+
+<p>After watching the clip, my first reaction was &#8220;Meh.&#8221; It matches my experience&#8211;pitch meetings have a casual feel to them; you want a singular voice (though everyone should contribute to the conversation). However, Ben (the british guy) was wrong, you can&#8217;t expect an investor pitch to follow a specific plan. Some investor meetings, we&#8217;ve walked through the pitch deck, others we jumped right into the product, some investors wanted to talk go to market stragies, others about getting to the series-A round. So far what I&#8217;ve learned is that investors have a variety of things their interested in, and while there are some commonalities in these pitches, the experience seems is far more dictated by the people we&#8217;re pitching, then any formula you learned in school. It shows a lack of maturity on Ben&#8217;s part, but acting indignant, and saying how he feels that it was disrespectful for the investor to jump into the pitch deck himself.</p>
+
+<p>When watching the clip, I ignored the pacing of the meeting&#8211;reality tv shows are notorious about edits and cuts to make something seem like it has more tension and thus more drama.</p>
+
+<p>So overall, I think the show could be interesting. Some of the other clips about partying, and life outside of the office don&#8217;t match my experiences but I do plan on giving the show a try. Maybe I can use a weekly recap as a way to force myself into blogging more regularly?</p>
+
+<p>Survey Says&#8230;</p>
+]]></content>
+  </entry>
+  
+</feed>

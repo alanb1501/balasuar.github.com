@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tv | balls' blog]]></title>
+  <link href="http://aballs.com/blog/categories/tv/atom.xml" rel="self"/>
+  <link href="http://aballs.com/"/>
+  <updated>2013-02-20T15:18:42-08:00</updated>
+  <id>http://aballs.com/</id>
+  <author>
+    <name><![CDATA[Alan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to the Jungle]]></title>
+    <link href="http://aballs.com/blog/2012/10/29/welcome-to-the-jungle/"/>
+    <updated>2012-10-29T02:03:00-07:00</updated>
+    <id>http://aballs.com/blog/2012/10/29/welcome-to-the-jungle</id>
+    <content type="html"><![CDATA[<h3>Back again for the 1nd time.</h3>
+
+<p>I'm trying yet another attempt at blogging. Maybe I'll be succesful this time. Either way it's an excuse to play with some new technologies out. For this, I'm using Octopress. The folks behind Octopress claim it's a 'blog for hackers' but by hackers they really mean 'blog for people who like to write code and or use scripts to get things done.' I definitely fall into the latter camp (though I've been known to reverse engineer the authentication schemes of mobile apps from time to time).</p>
+
+<p>Currently, I'm Cofounder, and VP of Engineering for a young startup here in Seattle. My work consumes almost all my time, and so I'm not betting that I'll be too successful with yet another blogging endeavor.</p>
+
+<h3>Reality Distortion Field</h3>
+
+<p>Bravo has a new Reality Show coming out about startups in Silicon Valley. The sense I get from random internet noise is that this show isn't going to be very popular. But as a new entrepreneur, I'm interested in seeing how it compares to my experiences.</p>
+
+<p>Bravo has posted some preview clips, and I've seen a few. There is one about an <a href="http://www.bravotv.com/start-ups-silicon-valley/season-1/videos/a-disrespectful-pitch">Investor Pitch</a> that struck a chord with me.  With my role as a cofounder of a startup, I've been recieving a lot of hands long experience and learning about entrepreneurship, and the business side of a software company. One of the best parts of my job (there are a lot of them), is meeting with and pitching investors.</p>
+
+<p>After watching the clip, my first reaction was "Meh." It matches my experience--pitch meetings have a casual feel to them; you want a singular voice (though everyone should contribute to the conversation). However, Ben (the british guy) was wrong, you can't expect an investor pitch to follow a specific plan. Some investor meetings, we've walked through the pitch deck, others we jumped right into the product, some investors wanted to talk go to market stragies, others about getting to the series-A round. So far what I've learned is that investors have a variety of things their interested in, and while there are some commonalities in these pitches, the experience seems is far more dictated by the people we're pitching, then any formula you learned in school. It shows a lack of maturity on Ben's part, but acting indignant, and saying how he feels that it was disrespectful for the investor to jump into the pitch deck himself.</p>
+
+<p>When watching the clip, I ignored the pacing of the meeting--reality tv shows are notorious about edits and cuts to make something seem like it has more tension and thus more drama.</p>
+
+<p>So overall, I think the show could be interesting. Some of the other clips about partying, and life outside of the office don't match my experiences but I do plan on giving the show a try. Maybe I can use a weekly recap as a way to force myself into blogging more regularly?</p>
+
+<p>Survey Says...</p>
+]]></content>
+  </entry>
+  
+</feed>
