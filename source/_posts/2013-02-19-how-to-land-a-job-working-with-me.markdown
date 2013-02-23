@@ -8,7 +8,7 @@ categories: software, careers,
 
 ## Introduction
 
-Hiring. It's the single most important thing I do for any organization. I was hired for this job, and now I will hire others to work with me. I'd like to talk (not so) breifly about how I evaluate candidates, start to finish. Some of this is really only applicable to those who work in software: PM's, Devs, and Test, however other bits I feel are universal across all industries. 
+Hiring. It's the single most important thing I do for any organization. I was hired for this job, and now I will hire others to work with me. I'd like to talk (not so) briefly about how I evaluate candidates, start to finish. Some of this is really only applicable to those who work in software: PM's, Devs, and Test, however other bits I feel are universal across all industries. 
 
 ### Caveat 1
 
@@ -24,7 +24,7 @@ For readers who aren't in the software world, interviewing in the world of softw
 
 A typical full interview loop consists of 6 to 8 1-hour sessions with different interviewers all asking some sort of question.
 
-Good companies will usuall provide lunch somewhere in the middle. 
+Good companies will usually provide lunch somewhere in the middle. 
 
 ## Part 1: My Experiences as a Candidate
 
@@ -34,15 +34,15 @@ I know that I am biased towards my hiring procedures based on my experiences int
 
 For the record, I when I first started, I sucked as a software engineer candidate. Not because I sucked as a developer, but because I lacked the skills to perform adequately in interviews. It wasn't all terribad, I did successfully interview for an internship position, that did require some minimal white-board coding. 
 
-However I must have gotten lucky on the whiteboard, because the next time I was presented with that opportunity I failed miserably. I was interviewing for a full-time position at Expedia. The interviewer and I had a really great report, but then it came to the techincal question. 
+However I must have gotten lucky on the whiteboard, because the next time I was presented with that opportunity I failed miserably. I was interviewing for a full-time position at Expedia. The interviewer and I had a really great report, but then it came to the technical question. 
 
 > How do you reverse a linked-list?
 
-I did pretty much the worst things you can do as a candidate. I sat there quietly, with a puzzled look on my face, for what seemed like an eternity, afterwhich I said "Uh, I don't know."
+I did pretty much the worst things you can do as a candidate. I sat there quietly, with a puzzled look on my face, for what seemed like an eternity, after which I said "Uh, I don't know."
 
 The interviewer had this look on his face, like "OH MY GOD THIS GUY IS A MORAN." He tried to be courteous but I could tell he was pissed that I wasted his time.
 
-For my interview at Boeing, I again had a really good report with my interviewer, and was invited for an on-site interview. Boeing is actually highly selective of college-hire engineers, however I did not go through a single coding interview while I was there. That was pretty much an anomoly in my career as an developer candidate. Lucky for me, I was surrounded by some of the smartest engineers in the company, and I was able to learn quite a bit.
+For my interview at Boeing, I again had a really good report with my interviewer, and was invited for an on-site interview. Boeing is actually highly selective of college-hire engineers, however I did not go through a single coding interview while I was there. That was pretty much an anomaly in my career as an developer candidate. Lucky for me, I was surrounded by some of the smartest engineers in the company, and I was able to learn quite a bit.
 
 ### The Middle Years
 
@@ -50,9 +50,9 @@ When I had decided to move back to WA, I had to restart the interviewing process
 
 > How do you implement a queue with a stack?
 
-I nailed it, and was invited for an inperson interview. I only goofed during one part of the interview, which involved traversing an array and removing elements from it. I was able to solve the problem, but when the interviewer through in the "curve-ball", I struggled to resolve it. In a random chance, I was also interviewed by the same guy who interviewed me on campus a few years back. He gave me the same question, and I smiled and told him "You actually interviewed me on campus, and asked me this same question, and I did terrible at it, and you got upset because I wasted your time." He kind of smiled, then asked me to solve it again, because apparently he didn't believe me. I nailed the question in 30 seconds, then he gave me a much much harder one, and I was able to solve that as well. He said he was impressed that I was able to solve it, and thanked me for being honest. Ultimately I was rejected, however I feel that it wasn't because of my coding skills, but because I said unintentially said something kind of creepy to the lady who conducted my lunch interview.
+I nailed it, and was invited for an in person interview. I only goofed during one part of the interview, which involved traversing an array and removing elements from it. I was able to solve the problem, but when the interviewer through in the "curve-ball", I struggled to resolve it. In a random chance, I was also interviewed by the same guy who interviewed me on campus a few years back. He gave me the same question, and I smiled and told him "You actually interviewed me on campus, and asked me this same question, and I did terrible at it, and you got upset because I wasted your time." He kind of smiled, then asked me to solve it again, because apparently he didn't believe me. I nailed the question in 30 seconds, then he gave me a much much harder one, and I was able to solve that as well. He said he was impressed that I was able to solve it, and thanked me for being honest. Ultimately I was rejected, however I feel that it wasn't because of my coding skills, but because I said unintentionally said something kind of creepy to the lady who conducted my lunch interview.
 
-For my interview at Clearsight Systems, I was given a series of tasks: a written questionaire, design a parking garage, debug this program, and finally some white board coding. I did well enough on all them to land the job. For the white board coding portion, it felt pretty good when both the interviewers expressed that they felt more than satisfied that I knew what I was talking about. Bam. Got the job. 
+For my interview at Clearsight Systems, I was given a series of tasks: a written questionnaire, design a parking garage, debug this program, and finally some white board coding. I did well enough on all them to land the job. For the white board coding portion, it felt pretty good when both the interviewers expressed that they felt more than satisfied that I knew what I was talking about. Bam. Got the job. 
 
 When Clearsight started to go under, I interviewed for a position at BioPassword. There I had a mix of success. I remember vividly I was unable to code up an algorithm for Boggle, but I think that because I had come in with a recommendation, I was able to get the job.
 
@@ -65,7 +65,7 @@ Since then, I've gotten to be pretty good at interviewing. I know I still strugg
 
 ### Step 1: The Resume
 
-I've gotten pretty good at critiqing resumes, especially for developers. The first step in working with me is getting your resume right.
+I've gotten pretty good at critiquing resumes, especially for developers. The first step in working with me is getting your resume right.
 
 The resume is going to bias me one way or the other. If it sucks, I'll think you suck. If it's okay, I might see potential. If it's stellar, I will be more likely to believe you are stellar.
 
@@ -87,11 +87,11 @@ Instead of the "What did I do for company XYZZY?" tell me what the results of yo
 
 > Increased the ratings of our iOS app from 2.5 stars to 4.5 stars.
 
-It took me quite a long while to start thinking of achievements, instead of daily-responsibilities, and even longer to actually get some impressive achievements under mybelt. Make me aware of how much value you bring to an organization. Now, most people still don't do this, so I have to often ask candidates to explain this. Also they may opt instead to put that information in the coverletter.
+It took me quite a long while to start thinking of achievements, instead of daily-responsibilities, and even longer to actually get some impressive achievements under my belt. Make me aware of how much value you bring to an organization. Now, most people still don't do this, so I have to often ask candidates to explain this. Also they may opt instead to put that information in the cover letter.
 
 #### Protip: Keep it simple
 
-I groan everytime I see a 3+ page resume. Seriously, I don't give a shit what you did 5 years ago, unless it was invent Facebook. Seriously, 1 page, 2 if you're bad ass.
+I groan every time I see a 3+ page resume. Seriously, I don't give a shit what you did 5 years ago, unless it was invent Facebook. Seriously, 1 page, 2 if you're bad ass.
 
 #### Protip: Mind your history
 
@@ -99,11 +99,11 @@ If your resume is littered with stints of less than 1 year at various companies,
 
 If you've been laid off, hopefully there was a good reason. I've never been laid off, been through many many rounds of layoffs, and I consider myself only an above average engineer.
 
-If there are gaps in your resume, please fill them with meaningful work. Start a side project, go back to school, do an online cert, whatever.
+If there are gaps in your resume, please fill them with meaningful work. Start a side project, go back to school, do an on-line cert, whatever.
 
 #### Contract vs Full Time
 
-If this is for a full-time position, and you've only worked as a contractor, I wonder if you'll enjoye working as a full-time person for very long. There is nothing wrong with contract work; it offers the greatest amount of flexibility, freedom, and ability to pick and choose your projects, and for a lot of people there is a certain allure to that. There is also the allure of ultimately not giving a shit about the client company. You're paid to do a job, and you're going to do a good job (hopefully), or at least do what they ask. As a full time hire, we need you to be more than just a developer. We need you to help steer the ship in case of trouble waters, to help bail if we take on water, and possibly rebuild the ship if necessary. There is more responsibility as a full-time person, and I need to know you're ready for that.
+If this is for a full-time position, and you've only worked as a contractor, I wonder if you'll enjoy working as a full-time person for very long. There is nothing wrong with contract work; it offers the greatest amount of flexibility, freedom, and ability to pick and choose your projects, and for a lot of people there is a certain allure to that. There is also the allure of ultimately not giving a shit about the client company. You're paid to do a job, and you're going to do a good job (hopefully), or at least do what they ask. As a full time hire, we need you to be more than just a developer. We need you to help steer the ship in case of trouble waters, to help bail if we take on water, and possibly rebuild the ship if necessary. There is more responsibility as a full-time person, and I need to know you're ready for that.
 
 #### Education
 
@@ -111,7 +111,7 @@ Education is a hot-button issue for hiring. I'm of the opinion that education is
 
 I also won't bias against schools, but I will bias up schools like MIT, Harvard, and Stanford, etc. I'll still need to verify you are awesome, but I will probably have a higher opinion of you when we start this process.
 
-### Step 2: Applying for a positon
+### Step 2: Applying for a position
 
 This is straight forward. If I ask you for:
 
@@ -122,19 +122,19 @@ This is straight forward. If I ask you for:
 
 Please send me all these things, when applying. Otherwise I will assume you didn't bother to read my posting, and just copy and pasted your response.
 
-I suck at writing coverletters, so unless it's really bad, or really exceptional, I don't put too much stock into it.
+I suck at writing cover letters, so unless it's really bad, or really exceptional, I don't put too much stock into it.
 
 ### Step 3: Phone Screen
 
 So you've made it past my resume filters, and I want to talk with you. Sweet!
 
-First we'll do a quick fit-screen. Really if you have a pulse, can talk intelligbly about something, and show some sort of passion, you'll pass this part.
+First we'll do a quick fit-screen. Really if you have a pulse, can talk intelligibly about something, and show some sort of passion, you'll pass this part.
 
-Next is the tech phone screen. Usually I use this part to assess if your resume is bullshit. Suprisingly I know quite a bit about a lot of software subjects, so I can usually ask intelligent questions, and I expect intelligent responses. I say suprisingly, because I've gotten a lot of comments over the years about how I know those things (#humblebrag). Then if I'm feeling good about those answers, I'll as a technical question, like
+Next is the tech phone screen. Usually I use this part to assess if your resume is bullshit. Surprisingly I know quite a bit about a lot of software subjects, so I can usually ask intelligent questions, and I expect intelligent responses. I say surprisingly, because I've gotten a lot of comments over the years about how I know those things (#humblebrag). Then if I'm feeling good about those answers, I'll as a technical question, like
 
 > Implement a queue with a stack
 
-Unfortunately there have been a few occassions where I felt satisified with the resume answers, but did not continue with the technical questions, due to not being able to fully understand a candidate. There are talented developers out there, for whom, english is a 2nd, 3rd, or 1337th language. However given the size of our team, and what *we* need to do, oral communication skills are paramount. 
+Unfortunately there have been a few occasions where I felt satisfied with the resume answers, but did not continue with the technical questions, due to not being able to fully understand a candidate. There are talented developers out there, for whom, English is a 2nd, 3rd, or 1337th language. However given the size of our team, and what *we* need to do, oral communication skills are paramount. 
 
 ### Step 4: The Full Loop
 
@@ -156,7 +156,7 @@ As well as how you attack problem solving, how do you communicate, how do you as
 
 As others have written before, the only real way to see if a candidate can code, is to have them code, and to observe them code.
 
-I like to ask a pretty simple question to get things started. If the question is super simple, like Fizzbuzz, I expect you code it as close to syntatically correct as possible, in whatever language you prefer. If its slightly harder, I will forgo the syntax requirement and focus more on the coding solution. Regardless, the algorithm is simple, and yet most people struggle here. With this, and questions, I try to steer the candidate into the right direction. If they're going to an obvious pitfall, I might ask them to justify why they chose to do what they do.
+I like to ask a pretty simple question to get things started. If the question is super simple, like Fizzbuzz, I expect you code it as close to syntactically correct as possible, in whatever language you prefer. If its slightly harder, I will forgo the syntax requirement and focus more on the coding solution. Regardless, the algorithm is simple, and yet most people struggle here. With this, and questions, I try to steer the candidate into the right direction. If they're going to an obvious pitfall, I might ask them to justify why they chose to do what they do.
 
 ##### Protip: If you vocalize your decisions before hand, I'll help steer you to the right solution
 
@@ -204,7 +204,7 @@ This is where I'd like candidates to have fun, shine and let their personalities
 
 Usually at this point, we should have a good report going. The point of this exercise is to see how we work together, how you lead the discussion, and really how well you understand the components of an end to end system. Hopefully this pulls together your past experience and knowledge of different facets of software development.
 
-I don't expect candidates to be experts here, but I do expect familiarty with building a web-app, including database, redundancy, load balancing, web servers and how they all play together. 
+I don't expect candidates to be experts here, but I do expect familiarity with building a web-app, including database, redundancy, load balancing, web servers and how they all play together. 
 
 If you've made it this far, this is your chance to outshine and really drive home why you are the right candidate for this position. There really aren't any tips for this section. Either you're our boy Blue, or you're not. Give it your best.
 
@@ -216,7 +216,7 @@ I've seen some candidates not do well here, and it's less about skill, and typic
 
 ## Outroduction
 
-While people may struggle with certain areas of interviewing with us, if you have passion, you show that you geniunely want to work with us, have smarts, are capable of learning, and get shit done attitude, you'll do well here, and pretty much any other organization you interview with. Even though software interviews are highly technical, these softskills end up minimizing your deficiencies and instead highlight your better qualities.
+While people may struggle with certain areas of interviewing with us, if you have passion, you show that you genuinely want to work with us, have smarts, are capable of learning, and get shit done attitude, you'll do well here, and pretty much any other organization you interview with. Even though software interviews are highly technical, these soft skills end up minimizing your deficiencies and instead highlight your better qualities.
 
 Interviewing is a skill. It takes practice to get good at it. Hopefully when you interview, even if you don't get the job, you feel that the process felt fair, and that you had every opportunity to do your best.
 
