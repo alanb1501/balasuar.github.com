@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Land a Job Working with Me"
-date: 2013-02-19 22:13
+date: 2013-02-22 22:13
 comments: true
 categories: software, careers,
 ---
@@ -10,8 +10,13 @@ categories: software, careers,
 
 Hiring. It's the single most important thing I do for any organization. I was hired for this job, and now I will hire others to work with me. I'd like to talk (not so) breifly about how I evaluate candidates, start to finish. Some of this is really only applicable to those who work in software: PM's, Devs, and Test, however other bits I feel are universal across all industries. 
 
-There is a caveat to this post: Right now, it's very difficult to find talented engineers in Seattle. There are a lot of funded companies doing interesting things, and so good developers have a pick of opportunities. If for some reason, you believe you are a good developer but aren't finding success, then I ask you to consider what I'm going to tell you, because it's probably going to make a difference in finding a job.
+### Caveat 1
 
+Right now, it's very difficult to find talented engineers in Seattle. There are a lot of funded companies doing interesting things, and so good developers have a pick of opportunities. If for some reason, you believe you are a good developer but aren't finding success, then I ask you to consider what I'm going to tell you, because it's probably going to make a difference in finding a job.
+
+### Caveat 2
+
+If you've gone through this process, and were not extended an offer, all it really means was that you weren't the right fit for our engineering position. I've been rejected for one opportunity, hired for others and have found success. It isn't necessarily about winning here, it's about taking shots.
 
 ### Software vs !Softare
 
@@ -140,6 +145,7 @@ Because we're a small team, you actually will have a couple non-technical interv
 In our time together I assess several things:
 
 1. Can you code?
+1. How do you solve problems?
 1. What is your knowledge of algorithms, data structures, and other CS topics?
 1. How do you approach error handling and testing?
 1. Design, Collaboration, and Leadership
@@ -154,6 +160,24 @@ I like to ask a pretty simple question to get things started. If the question is
 
 ##### Protip: If you vocalize your decisions before hand, I'll help steer you to the right solution
 
+In engineering classes, we would be graded less on the right answer, and more on the process. If you show you work, and how you arrived to your solution, you would be given enough credit to pass the assignment, regardless of the solution. That holds true here. If you show me how you think, I'll show you how we work together to solve a problem.
+
+#### How do you approach problem solving?
+
+Engineering in a nutshell is about taking big problems and breaking them up into smaller problems, and applying learned knowledge to solve these smaller problems. Software engineering is no different. I'm not too much of a stickler on how people approach problem solving, but there are a few red flags that stick out.
+
+##### Being Quiet
+I prefer working with people whom I can bounce ideas off of. If you are a quiet thinker, that might work for other organizations, but not for me. Tell me what you are thinking.
+
+##### Premature Optimization
+This is usually a learned skill, but it's worth knowing. If you are more senior, I expect you to know this. If you don't that's troubling.
+
+##### Overly Complex Solutions
+I'm not too smart, so the chances of me asking you to come up with a successor to PageRank is unlikely. No PhD dissertations please.
+
+##### Combativeness
+Look, white board coding isn't the most fun, and there are people who are struggle with it, yet are good developers. Still, as engineers, we've gone through this shared pain, so bitching about it, and being argumentative isn't going to win you any points (thoughtful discourse *might*). 
+
 #### What is your knowledge of algorithms, data structures, and other CS topics?
 
 From the simple solution, I then start asking harder and harder questions. Again helping the candidate reach the right solution. This is where you find out what the candidate knows. I expect a basic level of understanding for data structures:
@@ -164,18 +188,36 @@ From the simple solution, I then start asking harder and harder questions. Again
 
 And when to use each.
 
-I also may probe things like recursive algorithms, inheritance, polymorphism, and class design as well. 
+I also may probe things like recursive algorithms, synchronization, inheritance, polymorphism, and class design as well. The idea is that you know these fundamentals. If your resume shows that you jumped into CS from a different discipline or lack a formal education, then I will really hit fundamentals, as having a good grasp is usually the challenge that non-CS degreed developers tend to face.
 
 #### How do you approach error handling and testing?
 
-Undoubtedly, a candidate might make a mistake when writing up a solution. I use that as an opportunity to talk about error handling and testing. If the candidate is really good, it's often that they didn't cover for a  cases like bad inputs, but more often than not there is a logic error. We'll walk through testing the program and debuggin and fixing errors. 
+Undoubtedly, a candidate might make a mistake when writing up a solution. I use that as an opportunity to talk about error handling and testing. If the candidate is really good, it's often that they didn't cover for cases like bad inputs, but more often than not there is a logic error. We'll walk through testing the program and debugging and fixing errors. Since we're on a white board, the debugging process is slower, but the idea is to see how quickly they pick up on issues.
+
+##### Protip: Run a few examples through your code
 
 #### Design, Collaboration, and Leadership
 
 This is where I'd like candidates to have fun, shine and let their personalities show. I pick something that I'm interested in, or have worked on recently, and we role play it out.
 
-> First, pretend I'm your nit-wit boss, and I've asked you to design and build a mobile analytics platform. I'm stupid, so I don't know what one is, what it does, but I know I need it. Okay, great. Now pretend I'm also a subordinate, and you have to explain your design decisions to. Also to help, I can also be someone you can bounce ideas off of.
+> First, pretend I'm your nit-wit boss, and I've asked you to design and build a mobile analytics platform. I'm stupid, so I don't know what one is, what it does, but I know I need it. Okay, great. Now pretend I'm also a subordinate, and you have to explain your design decisions to. Also to help, I can also be someone you can bounce ideas off of and ask questions of.
 
 Usually at this point, we should have a good report going. The point of this exercise is to see how we work together, how you lead the discussion, and really how well you understand the components of an end to end system. Hopefully this pulls together your past experience and knowledge of different facets of software development.
 
- I don't expect candidates to be experts here, but I do expect some familiarty with building a simple web-app.
+I don't expect candidates to be experts here, but I do expect familiarty with building a web-app, including database, redundancy, load balancing, web servers and how they all play together. 
+
+If you've made it this far, this is your chance to outshine and really drive home why you are the right candidate for this position. There really aren't any tips for this section. Either you're our boy Blue, or you're not. Give it your best.
+
+### Step 5: The Working Session
+
+If you've made it through the full loop, we'll ask you to come back and work with us in a real working session. We'll pick a problem that we're currently facing, and all of us will work to solve it. This is as much for you to see us, as it us to see you. It's similar to the last part of my 1:1 interview, but now includes the entire team, and a real actual issue we're facing. 
+
+I've seen some candidates not do well here, and it's less about skill, and typically been more about fit to role. Specifically once you've passed the technical portion, we know you're a capable developer. What we need to assess is what impact you will make in our organization. The higher the multiplicative impact, the better you look. We want to see how passionate you are about wanting to work with us. This is our lives, our skin in the game, and I want everyone who is going to join us, to want to be a part of that.
+
+## Outroduction
+
+While people may struggle with certain areas of interviewing with us, if you have passion, you show that you geniunely want to work with us, have smarts, are capable of learning, and get shit done attitude, you'll do well here, and pretty much any other organization you interview with. Even though software interviews are highly technical, these softskills end up minimizing your deficiencies and instead highlight your better qualities.
+
+Interviewing is a skill. It takes practice to get good at it. Hopefully when you interview, even if you don't get the job, you feel that the process felt fair, and that you had every opportunity to do your best.
+
+What are your thoughts and experiences interviewing? Hit me up in the comments.
