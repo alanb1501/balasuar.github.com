@@ -10,19 +10,19 @@ categories: software, careers,
 
 Hiring. It's the single most important thing I do for any organization. I was hired for this job, and now I will hire others to work with me. I'd like to talk (not so) briefly about how I evaluate candidates, start to finish. Some of this is really only applicable to those who work in software: PM's, Devs, and Test, however other bits I feel are universal across all industries. 
 
-### Caveat 1
+#### Caveat 1
 
 Right now, it's very difficult to find talented engineers in Seattle. There are a lot of funded companies doing interesting things, and so good developers have a pick of opportunities. If for some reason, you believe you are a good developer but aren't finding success, then I ask you to consider what I'm going to tell you, because it's probably going to make a difference in finding a job.
 
-### Caveat 2
+#### Caveat 2
 
 If you've gone through this process, and were not extended an offer, all it really means was that you weren't the right fit for our engineering position. I've been rejected for one opportunity, hired for others and have found success. It isn't necessarily about winning here, it's about taking shots.
 
-### Software vs !Softare
+#### Software vs !Softare
 
-For readers who aren't in the software world, interviewing in the world of software (including Tech-PM, Dev, Test and Dev Manager), is unique among other fields, especially other engineering fields, in that the process is highly technical. We're less likely to be asked to describe time when we did not get along with a manager, and instead asked questions around subject matter expertise, fundamentals of software engineering, as well as to design, and actually write code.
+For readers who aren't in the software world, interviewing in the world of software (including Tech-PM, Dev, Test and Dev Manager), is unique among other fields, especially other engineering fields, in that the process is highly technical. We're less likely to be asked to describe a time when we did not get along with a manager, and instead, asked questions around subject matter expertise, fundamentals of software engineering, as well as to design and actually write code.
 
-A typical full interview loop consists of 6 to 8 1-hour sessions with different interviewers all asking some sort of question.
+A typical full interview loop consists of 6 to 8, 1-hour sessions with different interviewers all asking some sort of question.
 
 Good companies will usually provide lunch somewhere in the middle. 
 
@@ -32,36 +32,43 @@ I know that I am biased towards my hiring procedures based on my experiences int
 
 ### In the Beginning
 
-For the record, I when I first started, I sucked as a software engineer candidate. Not because I sucked as a developer, but because I lacked the skills to perform adequately in interviews. It wasn't all terribad, I did successfully interview for an internship position, that did require some minimal white-board coding. 
+For the record, when I first started, I sucked as a software engineer candidate. Not because I sucked as a developer, but because I lacked the skills to perform adequately in interviews. It wasn't all terribad, I did successfully interview for an internship position, that did require some minimal white-board coding. 
 
-However I must have gotten lucky on the whiteboard, because the next time I was presented with that opportunity I failed miserably. I was interviewing for a full-time position at Expedia. The interviewer and I had a really great report, but then it came to the technical question. 
+However I must have gotten lucky on the whiteboard, because the next time I was presented with that opportunity I failed miserably. I was interviewing for a full-time position at Expedia. The interviewer and I had a really great rapport, but then it came to the technical question. 
 
 > How do you reverse a linked-list?
 
 I did pretty much the worst things you can do as a candidate. I sat there quietly, with a puzzled look on my face, for what seemed like an eternity, after which I said "Uh, I don't know."
 
-The interviewer had this look on his face, like "OH MY GOD THIS GUY IS A MORAN." He tried to be courteous but I could tell he was pissed that I wasted his time.
+The interviewer had this look on his face, like "DUMBASS." He tried to be courteous but I could tell he was pissed that I wasted his time.
 
-For my interview at Boeing, I again had a really good report with my interviewer, and was invited for an on-site interview. Boeing is actually highly selective of college-hire engineers, however I did not go through a single coding interview while I was there. That was pretty much an anomaly in my career as an developer candidate. Lucky for me, I was surrounded by some of the smartest engineers in the company, and I was able to learn quite a bit.
+Next, for my interview at Boeing, I again had a really good rapport with my interviewer, and was invited for an on-site interview. Boeing is actually highly selective of college-hire engineers, though I actually did not go through a single coding interview while I was there. That was pretty much an anomaly in my career as an developer candidate. I count myself pretty lucky for my Boeing gig, because I was exposed to a lot of different technologies, thrown into the deep end and surrounded by some very seriously talented engineers, making it an excellent learning experience.
 
 ### The Middle Years
 
-When I had decided to move back to WA, I had to restart the interviewing process. Again I found myself interviewing with Expedia. I had a phone screen, again great report with the candidate, and this time able to answer the question:
+When I had decided to move back to WA, I had to restart the interviewing process. Again I found myself interviewing with Expedia. I had a phone screen, again great rapport with the interviewer, and this time able to answer the question:
 
 > How do you implement a queue with a stack?
 
-I nailed it, and was invited for an in person interview. I only goofed during one part of the interview, which involved traversing an array and removing elements from it. I was able to solve the problem, but when the interviewer through in the "curve-ball", I struggled to resolve it. In a random chance, I was also interviewed by the same guy who interviewed me on campus a few years back. He gave me the same question, and I smiled and told him "You actually interviewed me on campus, and asked me this same question, and I did terrible at it, and you got upset because I wasted your time." He kind of smiled, then asked me to solve it again, because apparently he didn't believe me. I nailed the question in 30 seconds, then he gave me a much much harder one, and I was able to solve that as well. He said he was impressed that I was able to solve it, and thanked me for being honest. Ultimately I was rejected, however I feel that it wasn't because of my coding skills, but because I said unintentionally said something kind of creepy to the lady who conducted my lunch interview.
+I nailed it, and was invited for an in person interview. I only goofed during one part of the interview, which involved traversing an array and removing elements from it. I was able to solve the problem, but when the interviewer through in the "curve-ball", I struggled to resolve it. Still, I felt that I had talked intelligently enough about my process that I got a "Hire" vote from the guy.
+
+In a random chance, I was also interviewed by the same guy who interviewed me on campus a few years back. He gave me the same question, and I smiled and told him "You actually interviewed me on campus, and asked me this same question, and I did terrible at it, and you got upset because I wasted your time." He kind of smiled, then asked me to solve it again, because apparently he didn't believe me. I nailed the question in 30 seconds, then he gave me a much much harder one, and I was able to solve that as well. He said he was impressed that I was able to solve it, and thanked me for being honest. 
+
+Sadly, in the end I was rejected. I felt that I had done well enough: solved technical problems, great rapport with most of the interviewers, and generally showed my potential as an up and coming engineer powerhouse. I said most of the interviewers, because I said unintentionally said something hella creepy to the lady who conducted my lunch interview. 
 
 For my interview at Clearsight Systems, I was given a series of tasks: a written questionnaire, design a parking garage, debug this program, and finally some white board coding. I did well enough on all them to land the job. For the white board coding portion, it felt pretty good when both the interviewers expressed that they felt more than satisfied that I knew what I was talking about. Bam. Got the job. 
 
-When Clearsight started to go under, I interviewed for a position at BioPassword. There I had a mix of success. I remember vividly I was unable to code up an algorithm for Boggle, but I think that because I had come in with a recommendation, I was able to get the job.
+When Clearsight started to go under, I interviewed for a position at BioPassword. There, I had a mix of success. I remember vividly I was unable to code up an algorithm for Boggle, but I think that because I had come in with a recommendation, I was able to get the job. I knew I had done well enough because I was asked to interview with the CEO of the company. Usually when you talk to the CEO, it's a great sign that the company is interested in you. 
 
 ### Hitting my Stride
 
-Since then, I've gotten to be pretty good at interviewing. I know I still struggle with completely nailing all white board questions, so I have to really prep for each interview, but I can count on one hand the number of times I've done either a phone screen, or a full-loop in which I was not able to move forward. For my last stint as an employee, I had in my hand 7 job offers, having nailed each interview I did. Some had contacted the evening of the interview, to offer me a job. I've yet to test myself in what I believe is the pinnacle of tough interviews: Google. I'm very confident I would be very successful as an engineer at Google, but I somehow lack the confidence that I would succeed in an interview.
+These days, I've gotten to be pretty good at interviewing. I know I still struggle with completely nailing all white board questions, so I have to really prep for each interview, but I can count on one hand the number of times I've done either a phone screen, or a full-loop in which I was not able to move forward. 
 
+For my last stint as an employee, I had in my hand 7 job offers, having nailed each interview I did. Some had contacted me the evening of the interview, to offer me a job. I've yet to test myself in what I believe is the pinnacle of tough interviews: Google, but I would say that though I'm very confident I would be very successful as an engineer at Google, I really feel like I wouldn't succeed passing the interview.
 
 ## Part II: On the Other Side
+
+So you want to come work with us. How do you make that happen?
 
 ### Step 1: The Resume
 
@@ -77,29 +84,29 @@ I quickly glance at resumes. I look at education, look at what they are doing cu
 
 As a developer, I expect your objective to be:
 
->"I want to prove that I'm one of the greatest developers on the planet, to work with kick ass people, and make major contributions to your organizations success."
+>"I'm one of the greatest developers on the planet, to work with kick ass people, and make major contributions to your organizations success. Hire me, and I'll prove it."
 
-If you tell me otherwise, I will ding you. One time a candidate had on her resume that she wanted to find a position that would allow her to learn HTML5. I passed. I'm sure she has a busy life outside of work, and yes it's way easier to learn technology one the job. However, if you want to learn HTML5, why don't you just do it? Take a course, buy a book, whatever, software development is a field where the start-up costs are pretty much nil. I put much more stock in candidates who put in effort outside of their job to learn new technologies, because hopefully they can bring some of that learning to our team.
+If you tell me otherwise, I will ding you. One time a candidate had on her resume that she wanted to find a position that would allow her to learn HTML5. I passed. I'm sure she has a busy life outside of work, and yes it's way easier to learn technology on the job. However, if you want to learn HTML5, why don't you just do it? Take a course, buy a book, whatever, software development is a field where the start-up costs are pretty much nil. I put much more stock in candidates who put in effort outside of their job to learn new technologies, because hopefully they can bring some of that learning to our team.
 
 #### Protip: Be Achievement Oriented
 
 Instead of the "What did I do for company XYZZY?" tell me what the results of your work were. 
 
-> Increased the ratings of our iOS app from 2.5 stars to 4.5 stars.
+> Increased the ratings of our iOS app from 2.5 stars, to 3.5 stars. In. My. First. Release. Eventually I increased the rating from 2.5 to 4.5 stars.
 
-It took me quite a long while to start thinking of achievements, instead of daily-responsibilities, and even longer to actually get some impressive achievements under my belt. Make me aware of how much value you bring to an organization. Now, most people still don't do this, so I have to often ask candidates to explain this. Also they may opt instead to put that information in the cover letter.
+It took me quite a long while to start thinking of achievements, instead of daily-responsibilities, and even longer to actually get some impressive achievements under my belt. Make me aware of how much value you bring to an organization. Now, most people still don't do this, so if you do, you will put yourself ahead of the pack.
 
 #### Protip: Keep it simple
 
-I groan every time I see a 3+ page resume. Seriously, I don't give a shit what you did 5 years ago, unless it was invent Facebook. Seriously, 1 page, 2 if you're bad ass.
+I groan every time I see a 3+ page resume. Seriously, I don't give a shit what you did 5 years ago, let alone 10, unless it was invent Facebook. Seriously, 1 page. 2 if you're bad ass
 
 #### Protip: Mind your history
 
 If your resume is littered with stints of less than 1 year at various companies, that is a red-flag. Perhaps that person hasn't yet found the right company, or perhaps they're just not a good fit anywhere.
 
-If you've been laid off, hopefully there was a good reason. I've never been laid off, been through many many rounds of layoffs, and I consider myself only an above average engineer.
+I've never been laid off. I've survived through many many rounds of layoffs, and I consider myself only an above average engineer. If you've been laid off, hopefully there was a good reason. 
 
-If there are gaps in your resume, please fill them with meaningful work. Start a side project, go back to school, do an on-line cert, whatever.
+If there are gaps in your resume, please fill them with meaningful work. Start a side project, go back to school, do an on-line cert, whatever. Just do something other than sit around.
 
 #### Contract vs Full Time
 
@@ -120,21 +127,21 @@ This is straight forward. If I ask you for:
 1. Link to your Github account
 1. Link to portfolio work
 
-Please send me all these things, when applying. Otherwise I will assume you didn't bother to read my posting, and just copy and pasted your response.
+Please send me all these things, when applying. Otherwise I will assume you didn't bother to read my posting, and just copy and pasted your response. If you won't put effort into applying to work with me, I'll just assume you won't apply effort when you actually do. That's probably an unfair, but so is life.
 
-I suck at writing cover letters, so unless it's really bad, or really exceptional, I don't put too much stock into it.
+Since I suck at writing cover letters, so unless it's really bad, or really exceptional, I won't make too much out of one.
 
 ### Step 3: Phone Screen
 
-So you've made it past my resume filters, and I want to talk with you. Sweet!
+If you've made it past my resume filters, and I want to talk with you. Sweet!
 
 First we'll do a quick fit-screen. Really if you have a pulse, can talk intelligibly about something, and show some sort of passion, you'll pass this part.
 
-Next is the tech phone screen. Usually I use this part to assess if your resume is bullshit. Surprisingly I know quite a bit about a lot of software subjects, so I can usually ask intelligent questions, and I expect intelligent responses. I say surprisingly, because I've gotten a lot of comments over the years about how I know those things (#humblebrag). Then if I'm feeling good about those answers, I'll as a technical question, like
+Next is the tech phone screen. Usually I use this part to assess if your resume is bullshit. Surprisingly I know quite a bit about a lot of software subjects, so I can usually ask intelligent questions, and I expect intelligent responses. I say surprisingly, because I've gotten a lot of comments over the years about how I know those things (#humblebrag). Then if I'm feeling good about those answers, I'll as a technical question, like (sound familiar?)
 
 > Implement a queue with a stack
 
-Unfortunately there have been a few occasions where I felt satisfied with the resume answers, but did not continue with the technical questions, due to not being able to fully understand a candidate. There are talented developers out there, for whom, English is a 2nd, 3rd, or 1337th language. However given the size of our team, and what *we* need to do, oral communication skills are paramount. 
+Unfortunately there have been a few occasions where I felt satisfied with the resume answers, but did not continue with the technical questions, due to not being able to fully understand a candidate. There are talented developers out there, for whom, English is a 2nd, 3rd, or 1337th language. However given the size of our team, and what *we* need to do, oral communication skills are paramount. If English is not your strong suit, I recommend finding a speech coach and working through it.
 
 ### Step 4: The Full Loop
 
@@ -154,7 +161,7 @@ As well as how you attack problem solving, how do you communicate, how do you as
 
 #### Can you code?
 
-As others have written before, the only real way to see if a candidate can code, is to have them code, and to observe them code.
+As others have written before, the only real way to see if a candidate can code, is to have them code, and to observe them doing it.
 
 I like to ask a pretty simple question to get things started. If the question is super simple, like Fizzbuzz, I expect you code it as close to syntactically correct as possible, in whatever language you prefer. If its slightly harder, I will forgo the syntax requirement and focus more on the coding solution. Regardless, the algorithm is simple, and yet most people struggle here. With this, and questions, I try to steer the candidate into the right direction. If they're going to an obvious pitfall, I might ask them to justify why they chose to do what they do.
 
@@ -170,13 +177,17 @@ Engineering in a nutshell is about taking big problems and breaking them up into
 I prefer working with people whom I can bounce ideas off of. If you are a quiet thinker, that might work for other organizations, but not for me. Tell me what you are thinking.
 
 ##### Premature Optimization
-This is usually a learned skill, but it's worth knowing. If you are more senior, I expect you to know this. If you don't that's troubling.
+This is usually a learned skill. If you are senior, I expect you to know this. 
 
 ##### Overly Complex Solutions
-I'm not too smart, so the chances of me asking you to come up with a successor to PageRank is unlikely. No PhD dissertations please.
+I'm not too bright, so the chances of me asking you to come up with a successor to PageRank is unlikely. No PhD dissertations please.
 
-##### Combativeness
-Look, white board coding isn't the most fun, and there are people who are struggle with it, yet are good developers. Still, as engineers, we've gone through this shared pain, so bitching about it, and being argumentative isn't going to win you any points (thoughtful discourse *might*). 
+##### Douche Baggery
+Look, white board coding isn't the most fun, and there are people who struggle with it, yet are very good developers. Still, as engineers, we've all gone through this shared pain, so bitching about it, being argumentative, and acting like a dickhead isn't going to win you any points. I asked one candidate if he wanted some more water before we got started, and he smugly held up his glass and pointed at it. 
+
+> Yes, dumbass, I see your glass has water in it. I asked if you wanted *MORE* fucking water. 
+
+You guessed it. No-Hire (his solutions were also shitty)
 
 #### What is your knowledge of algorithms, data structures, and other CS topics?
 
@@ -195,6 +206,7 @@ I also may probe things like recursive algorithms, synchronization, inheritance,
 Undoubtedly, a candidate might make a mistake when writing up a solution. I use that as an opportunity to talk about error handling and testing. If the candidate is really good, it's often that they didn't cover for cases like bad inputs, but more often than not there is a logic error. We'll walk through testing the program and debugging and fixing errors. Since we're on a white board, the debugging process is slower, but the idea is to see how quickly they pick up on issues.
 
 ##### Protip: Run a few examples through your code
+It looks good to me, if you take an opportunity to test your solution out.
 
 #### Design, Collaboration, and Leadership
 
@@ -202,7 +214,7 @@ This is where I'd like candidates to have fun, shine and let their personalities
 
 > First, pretend I'm your nit-wit boss, and I've asked you to design and build a mobile analytics platform. I'm stupid, so I don't know what one is, what it does, but I know I need it. Okay, great. Now pretend I'm also a subordinate, and you have to explain your design decisions to. Also to help, I can also be someone you can bounce ideas off of and ask questions of.
 
-Usually at this point, we should have a good report going. The point of this exercise is to see how we work together, how you lead the discussion, and really how well you understand the components of an end to end system. Hopefully this pulls together your past experience and knowledge of different facets of software development.
+Usually at this point, we should have a good rapport going. The point of this exercise is to see how we work together, how you lead the discussion, and really how well you understand the components of an end to end system. Hopefully this pulls together your past experience and knowledge of different facets of software development.
 
 I don't expect candidates to be experts here, but I do expect familiarity with building a web-app, including database, redundancy, load balancing, web servers and how they all play together. 
 
