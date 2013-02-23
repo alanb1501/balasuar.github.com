@@ -34,6 +34,8 @@ I know that I am biased towards my hiring procedures based on my experiences int
 
 For the record, when I first started, I sucked as a software engineer candidate. Not because I sucked as a developer, but because I lacked the skills to perform adequately in interviews. It wasn't all terribad, I did successfully interview for an internship position, that did require some minimal white-board coding. 
 
+<!-- more -->
+
 However I must have gotten lucky on the whiteboard, because the next time I was presented with that opportunity I failed miserably. I was interviewing for a full-time position at Expedia. The interviewer and I had a really great rapport, but then it came to the technical question. 
 
 > How do you reverse a linked-list?
@@ -84,7 +86,7 @@ I quickly glance at resumes. I look at education, look at what they are doing cu
 
 As a developer, I expect your objective to be:
 
->"I'm one of the greatest developers on the planet, to work with kick ass people, and make major contributions to your organizations success. Hire me, and I'll prove it."
+>"I'm one of the greatest developers on the planet, and I wanna work with kick ass people, and make major contributions to your organizations success. Hire me, and I'll prove it."
 
 If you tell me otherwise, I will ding you. One time a candidate had on her resume that she wanted to find a position that would allow her to learn HTML5. I passed. I'm sure she has a busy life outside of work, and yes it's way easier to learn technology on the job. However, if you want to learn HTML5, why don't you just do it? Take a course, buy a book, whatever, software development is a field where the start-up costs are pretty much nil. I put much more stock in candidates who put in effort outside of their job to learn new technologies, because hopefully they can bring some of that learning to our team.
 

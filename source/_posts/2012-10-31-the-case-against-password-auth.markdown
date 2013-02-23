@@ -20,6 +20,8 @@ If you need to protect a section of service, passwords are quickly becoming a ba
 
 Developers should think twice before implementing a password base system, as it's time consuming and very easy to screw up.
 
+<!-- more -->
+
 ### Axiom 1: People reuse passwords because it's easy.
 
 As Bruce Schneier wrote in [The Psychology of Security](http://www.schneier.com/essay-155.html), security is a trade off. It's a trade-off between being secure and {Money, Time, Freedom} and so forth. With the explosions of passwords, people's natural tendancy is to reuse the same password across multiple sites. It's hard to remember a unique password for each site, and much easier to have one password. So we use the same passwords all over. Some people are move savvy and have a set of passwords, while others prefer to use a code to come up with a unique password. By and large however, people reuse passwords.
